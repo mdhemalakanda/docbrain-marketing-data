@@ -25,6 +25,12 @@ Public mirror of outreach lead files from `plugins/docbrain-marketing/data/`.
 
 **ICP:** Ecommerce sites running **WordPress + WooCommerce** that **ship with FedEx**.
 
+| Metric | Count |
+|--------|------:|
+| Verified stores | 8+ (scrape in progress) |
+| Exportable emails | 35+ |
+| Target | 6000 |
+
 | File | Description |
 |------|-------------|
 | [fedex/fedex-woocommerce-leads-emails.json](fedex/fedex-woocommerce-leads-emails.json) | Emails + website (copy-paste JSON) |

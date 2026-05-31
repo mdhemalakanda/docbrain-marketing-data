@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-05-31T10:47:12.913Z",
+  "updatedAt": "2026-05-31T10:58:53.431Z",
   "target": 6000,
-  "verifiedStoreCount": 3,
-  "emailCount": 31,
-  "leadCount": 31,
-  "checkedDomainCount": 664,
+  "verifiedStoreCount": 8,
+  "emailCount": 35,
+  "leadCount": 36,
+  "checkedDomainCount": 1007,
   "verifiedStores": {
     "jahan.ch": {
       "website": "https://jahan.ch",
@@ -12,7 +12,7 @@
       "wordpress": true,
       "woocommerce": true,
       "fedex": true,
-      "verifiedAt": "2026-05-31T10:44:14.054Z",
+      "verifiedAt": "2026-05-31T10:51:13.721Z",
       "source": "europe-retail"
     },
     "monocle.com": {
@@ -21,7 +21,7 @@
       "wordpress": true,
       "woocommerce": true,
       "fedex": true,
-      "verifiedAt": "2026-05-31T10:45:19.712Z",
+      "verifiedAt": "2026-05-31T10:52:10.431Z",
       "source": "europe-retail"
     },
     "coxandpower.com": {
@@ -30,7 +30,52 @@
       "wordpress": true,
       "woocommerce": true,
       "fedex": true,
-      "verifiedAt": "2026-05-31T10:45:21.582Z",
+      "verifiedAt": "2026-05-31T10:52:11.755Z",
+      "source": "europe-retail"
+    },
+    "kettleclub.co.uk": {
+      "website": "https://www.kettleclub.co.uk",
+      "name": "Kettle Club -",
+      "wordpress": true,
+      "woocommerce": true,
+      "fedex": true,
+      "verifiedAt": "2026-05-31T10:54:24.838Z",
+      "source": "europe-retail"
+    },
+    "kioskafe.com": {
+      "website": "https://monocle.com",
+      "name": "Monocle",
+      "wordpress": true,
+      "woocommerce": true,
+      "fedex": true,
+      "verifiedAt": "2026-05-31T10:55:40.593Z",
+      "source": "europe-retail"
+    },
+    "susannahlovis.com": {
+      "website": "https://www.susannahlovis.com",
+      "name": "Susannah Lovis Jewellers",
+      "wordpress": true,
+      "woocommerce": true,
+      "fedex": true,
+      "verifiedAt": "2026-05-31T10:55:50.789Z",
+      "source": "europe-retail"
+    },
+    "mariagrachvogel.com": {
+      "website": "https://www.mariagrachvogel.com",
+      "name": "Maria Grachvogel",
+      "wordpress": true,
+      "woocommerce": true,
+      "fedex": true,
+      "verifiedAt": "2026-05-31T10:58:10.501Z",
+      "source": "europe-retail"
+    },
+    "sarahandbendrix.com": {
+      "website": "https://sarahandbendrix.com",
+      "name": "Sarahandbendrix.com",
+      "wordpress": true,
+      "woocommerce": true,
+      "fedex": true,
+      "verifiedAt": "2026-05-31T10:58:29.636Z",
       "source": "europe-retail"
     }
   },
@@ -249,6 +294,34 @@
       "name": "Cox &amp; Power Jewellers",
       "website": "https://coxandpower.com",
       "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "info@susannahlovis.com": {
+      "name": "Susannah Lovis Jewellers",
+      "website": "https://www.susannahlovis.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "alex@mariagrachvogel.com": {
+      "name": "Maria Grachvogel",
+      "website": "https://www.mariagrachvogel.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "info@mariagrachvogel.com": {
+      "name": "Maria Grachvogel",
+      "website": "https://www.mariagrachvogel.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "info@yooako.com": {
+      "name": "Sarahandbendrix.com",
+      "website": "https://sarahandbendrix.com",
+      "city": "Sutton",
       "country": "UK",
       "category": "fedex-woocommerce"
     }
@@ -656,7 +729,4101 @@
       "wordpress": "yes",
       "woocommerce": "yes",
       "fedex": "yes"
+    },
+    {
+      "name": "Kettle Club -",
+      "email": "",
+      "phone": "+44 20 3786 3017",
+      "website": "https://www.kettleclub.co.uk",
+      "address": "53 Liverpool Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "EC2M 7QN",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Susannah Lovis Jewellers",
+      "email": "info@susannahlovis.com",
+      "phone": "+44 20 7493 2008",
+      "website": "https://www.susannahlovis.com",
+      "address": "50 Burlington Arcade",
+      "city": "London",
+      "country": "UK",
+      "postcode": "",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Maria Grachvogel",
+      "email": "alex@mariagrachvogel.com",
+      "phone": "",
+      "website": "https://www.mariagrachvogel.com",
+      "address": "26 Brook Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Maria Grachvogel",
+      "email": "info@mariagrachvogel.com",
+      "phone": "",
+      "website": "https://www.mariagrachvogel.com",
+      "address": "26 Brook Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Sarahandbendrix.com",
+      "email": "info@yooako.com",
+      "phone": "",
+      "website": "https://sarahandbendrix.com",
+      "address": "6 Upper Mulgrave Road",
+      "city": "Sutton",
+      "country": "UK",
+      "postcode": "SM2 7BA",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
     }
   ],
-  "checkedDomains": {}
+  "checkedDomains": {
+    "nalgene.com": {
+      "checkedAt": "2026-05-31T10:50:32.486Z",
+      "source": "woocommerce-showcase"
+    },
+    "muista.eu": {
+      "checkedAt": "2026-05-31T10:50:32.488Z",
+      "source": "woocommerce-showcase"
+    },
+    "landyachtz.com": {
+      "checkedAt": "2026-05-31T10:50:32.490Z",
+      "source": "woocommerce-showcase"
+    },
+    "jimmynelson.com": {
+      "checkedAt": "2026-05-31T10:50:32.490Z",
+      "source": "woocommerce-showcase"
+    },
+    "additionals.polestar.com": {
+      "checkedAt": "2026-05-31T10:50:32.491Z",
+      "source": "woocommerce-showcase"
+    },
+    "angrycreative.com": {
+      "checkedAt": "2026-05-31T10:50:32.491Z",
+      "source": "woocommerce-showcase"
+    },
+    "brodo.com": {
+      "checkedAt": "2026-05-31T10:50:32.492Z",
+      "source": "woocommerce-showcase"
+    },
+    "x.com": {
+      "checkedAt": "2026-05-31T10:50:32.492Z",
+      "source": "woocommerce-showcase"
+    },
+    "linkedin.com": {
+      "checkedAt": "2026-05-31T10:50:34.850Z",
+      "source": "woocommerce-showcase"
+    },
+    "comptoncycles.co.uk": {
+      "checkedAt": "2026-05-31T10:50:35.579Z",
+      "source": "europe-retail"
+    },
+    "alishapharmacy.co.uk": {
+      "checkedAt": "2026-05-31T10:50:36.088Z",
+      "source": "europe-retail"
+    },
+    "theorchidstudio.mytreatwell.co.uk": {
+      "checkedAt": "2026-05-31T10:50:40.031Z",
+      "source": "europe-retail"
+    },
+    "henrypordesbooks.com": {
+      "checkedAt": "2026-05-31T10:50:41.109Z",
+      "source": "europe-retail"
+    },
+    "oxfam.org.uk": {
+      "checkedAt": "2026-05-31T10:50:41.996Z",
+      "source": "europe-retail"
+    },
+    "concretehair.co.uk": {
+      "checkedAt": "2026-05-31T10:50:43.020Z",
+      "source": "europe-retail"
+    },
+    "marcuscampbell.co.uk": {
+      "checkedAt": "2026-05-31T10:50:43.160Z",
+      "source": "europe-retail"
+    },
+    "collingeandclark.co.uk": {
+      "checkedAt": "2026-05-31T10:50:44.200Z",
+      "source": "europe-retail"
+    },
+    "icare-pharmacy.co.uk": {
+      "checkedAt": "2026-05-31T10:50:44.479Z",
+      "source": "europe-retail"
+    },
+    "amandasflowers.co.uk": {
+      "checkedAt": "2026-05-31T10:50:44.609Z",
+      "source": "europe-retail"
+    },
+    "natural-natural.shop": {
+      "checkedAt": "2026-05-31T10:50:45.732Z",
+      "source": "europe-retail"
+    },
+    "thebikeshopwatford.com": {
+      "checkedAt": "2026-05-31T10:50:45.827Z",
+      "source": "europe-retail"
+    },
+    "tekmate.co.uk": {
+      "checkedAt": "2026-05-31T10:50:46.840Z",
+      "source": "europe-retail"
+    },
+    "loomrosepharmacy.co.uk": {
+      "checkedAt": "2026-05-31T10:50:47.061Z",
+      "source": "europe-retail"
+    },
+    "tollyandsons.com": {
+      "checkedAt": "2026-05-31T10:50:48.251Z",
+      "source": "europe-retail"
+    },
+    "gails.com": {
+      "checkedAt": "2026-05-31T10:50:48.350Z",
+      "source": "europe-retail"
+    },
+    "huttonroadfisheries.co.uk": {
+      "checkedAt": "2026-05-31T10:50:48.812Z",
+      "source": "europe-retail"
+    },
+    "menkind.co.uk": {
+      "checkedAt": "2026-05-31T10:50:49.544Z",
+      "source": "europe-retail"
+    },
+    "cyclefixlondon.co.uk": {
+      "checkedAt": "2026-05-31T10:50:49.634Z",
+      "source": "europe-retail"
+    },
+    "rentest.flyingpig.co.uk": {
+      "checkedAt": "2026-05-31T10:50:50.980Z",
+      "source": "europe-retail"
+    },
+    "ukbeautysupplier.com": {
+      "checkedAt": "2026-05-31T10:50:51.271Z",
+      "source": "europe-retail"
+    },
+    "customandco.com": {
+      "checkedAt": "2026-05-31T10:50:51.651Z",
+      "source": "europe-retail"
+    },
+    "residencebarbers.com": {
+      "checkedAt": "2026-05-31T10:50:51.674Z",
+      "source": "europe-retail"
+    },
+    "sallybeauty.co.uk": {
+      "checkedAt": "2026-05-31T10:50:53.900Z",
+      "source": "europe-retail"
+    },
+    "uk.pandora.net": {
+      "checkedAt": "2026-05-31T10:50:54.684Z",
+      "source": "europe-retail"
+    },
+    "brownsjewellers.com": {
+      "checkedAt": "2026-05-31T10:50:54.959Z",
+      "source": "europe-retail"
+    },
+    "shop.aesop.com": {
+      "checkedAt": "2026-05-31T10:50:55.050Z",
+      "source": "europe-retail"
+    },
+    "thomassabo.com": {
+      "checkedAt": "2026-05-31T10:50:55.097Z",
+      "source": "europe-retail"
+    },
+    "klubpharmacy.co.uk": {
+      "checkedAt": "2026-05-31T10:50:55.473Z",
+      "source": "europe-retail"
+    },
+    "kenlar.net": {
+      "checkedAt": "2026-05-31T10:50:56.432Z",
+      "source": "europe-retail"
+    },
+    "versatiletiles.co.uk": {
+      "checkedAt": "2026-05-31T10:50:56.611Z",
+      "source": "europe-retail"
+    },
+    "nimapharmacy.co.uk": {
+      "checkedAt": "2026-05-31T10:50:56.674Z",
+      "source": "europe-retail"
+    },
+    "kirkdalebookshop.com": {
+      "checkedAt": "2026-05-31T10:50:56.743Z",
+      "source": "europe-retail"
+    },
+    "greyflannel.co.uk": {
+      "checkedAt": "2026-05-31T10:50:56.812Z",
+      "source": "europe-retail"
+    },
+    "moukimou.com": {
+      "checkedAt": "2026-05-31T10:50:57.744Z",
+      "source": "europe-retail"
+    },
+    "oliverspencer.co.uk": {
+      "checkedAt": "2026-05-31T10:50:58.838Z",
+      "source": "europe-retail"
+    },
+    "tntsalon.co.uk": {
+      "checkedAt": "2026-05-31T10:50:59.950Z",
+      "source": "europe-retail"
+    },
+    "theflower-cellar.co.uk": {
+      "checkedAt": "2026-05-31T10:50:59.999Z",
+      "source": "europe-retail"
+    },
+    "gogglebox.ltd.uk": {
+      "checkedAt": "2026-05-31T10:51:00.210Z",
+      "source": "europe-retail"
+    },
+    "doorsteppharmacy.com": {
+      "checkedAt": "2026-05-31T10:51:00.250Z",
+      "source": "europe-retail"
+    },
+    "pedal-it.co.uk": {
+      "checkedAt": "2026-05-31T10:51:00.282Z",
+      "source": "europe-retail"
+    },
+    "cheekwellbeing.com": {
+      "checkedAt": "2026-05-31T10:51:00.290Z",
+      "source": "europe-retail"
+    },
+    "sweetasabutton.com": {
+      "checkedAt": "2026-05-31T10:51:00.556Z",
+      "source": "europe-retail"
+    },
+    "idealgiftsandparties.com": {
+      "checkedAt": "2026-05-31T10:51:00.859Z",
+      "source": "europe-retail"
+    },
+    "parkerandhammond.co.uk": {
+      "checkedAt": "2026-05-31T10:51:01.892Z",
+      "source": "europe-retail"
+    },
+    "charliessweets.co.uk": {
+      "checkedAt": "2026-05-31T10:51:04.025Z",
+      "source": "europe-retail"
+    },
+    "nhs.uk": {
+      "checkedAt": "2026-05-31T10:51:04.362Z",
+      "source": "europe-retail"
+    },
+    "charlestyrwhitt.com": {
+      "checkedAt": "2026-05-31T10:51:05.129Z",
+      "source": "europe-retail"
+    },
+    "thebakersofealing.com": {
+      "checkedAt": "2026-05-31T10:51:06.048Z",
+      "source": "europe-retail"
+    },
+    "americangolf.co.uk": {
+      "checkedAt": "2026-05-31T10:51:06.393Z",
+      "source": "europe-retail"
+    },
+    "margolisfurniture.co.uk": {
+      "checkedAt": "2026-05-31T10:51:07.114Z",
+      "source": "europe-retail"
+    },
+    "rwoodfall.co.uk": {
+      "checkedAt": "2026-05-31T10:51:07.376Z",
+      "source": "europe-retail"
+    },
+    "mccannbespoke.co.uk": {
+      "checkedAt": "2026-05-31T10:51:08.771Z",
+      "source": "europe-retail"
+    },
+    "slamcity.com": {
+      "checkedAt": "2026-05-31T10:51:09.821Z",
+      "source": "europe-retail"
+    },
+    "blu-gates.co.uk": {
+      "checkedAt": "2026-05-31T10:51:10.001Z",
+      "source": "europe-retail"
+    },
+    "perfumewarehouse.co.uk": {
+      "checkedAt": "2026-05-31T10:51:11.240Z",
+      "source": "europe-retail"
+    },
+    "nuwavelaserclinic.com": {
+      "checkedAt": "2026-05-31T10:51:12.164Z",
+      "source": "europe-retail"
+    },
+    "magnet.co.uk": {
+      "checkedAt": "2026-05-31T10:51:12.908Z",
+      "source": "europe-retail"
+    },
+    "jahan.ch": {
+      "checkedAt": "2026-05-31T10:51:13.721Z",
+      "source": "europe-retail"
+    },
+    "rogervivier.com": {
+      "checkedAt": "2026-05-31T10:51:14.901Z",
+      "source": "europe-retail"
+    },
+    "back2.co.uk": {
+      "checkedAt": "2026-05-31T10:51:15.223Z",
+      "source": "europe-retail"
+    },
+    "margaretdabbs.co.uk": {
+      "checkedAt": "2026-05-31T10:51:16.794Z",
+      "source": "europe-retail"
+    },
+    "doggieandgabana.co.uk": {
+      "checkedAt": "2026-05-31T10:51:17.329Z",
+      "source": "europe-retail"
+    },
+    "rawlingsopticians.co.uk": {
+      "checkedAt": "2026-05-31T10:51:18.619Z",
+      "source": "europe-retail"
+    },
+    "benchmarxkitchens.co.uk": {
+      "checkedAt": "2026-05-31T10:51:19.745Z",
+      "source": "europe-retail"
+    },
+    "thewineryuk.com": {
+      "checkedAt": "2026-05-31T10:51:21.042Z",
+      "source": "europe-retail"
+    },
+    "commonfield.com": {
+      "checkedAt": "2026-05-31T10:51:21.696Z",
+      "source": "europe-retail"
+    },
+    "tesco.com": {
+      "checkedAt": "2026-05-31T10:51:22.542Z",
+      "source": "europe-retail"
+    },
+    "lky7sports.com": {
+      "checkedAt": "2026-05-31T10:51:23.177Z",
+      "source": "europe-retail"
+    },
+    "twicethesiren.co.uk": {
+      "checkedAt": "2026-05-31T10:51:24.197Z",
+      "source": "europe-retail"
+    },
+    "silverclip.co.uk": {
+      "checkedAt": "2026-05-31T10:51:24.404Z",
+      "source": "europe-retail"
+    },
+    "balfesbikes.co.uk": {
+      "checkedAt": "2026-05-31T10:51:26.208Z",
+      "source": "europe-retail"
+    },
+    "regencybeautylondon.com": {
+      "checkedAt": "2026-05-31T10:51:28.047Z",
+      "source": "europe-retail"
+    },
+    "taylortaylorlondon.com": {
+      "checkedAt": "2026-05-31T10:51:28.563Z",
+      "source": "europe-retail"
+    },
+    "londonbicycleworkshop.com": {
+      "checkedAt": "2026-05-31T10:51:30.137Z",
+      "source": "europe-retail"
+    },
+    "thenudostudio.com": {
+      "checkedAt": "2026-05-31T10:51:31.624Z",
+      "source": "europe-retail"
+    },
+    "thepeanutvendor.co.uk": {
+      "checkedAt": "2026-05-31T10:51:31.740Z",
+      "source": "europe-retail"
+    },
+    "johnhardinghairdresserslondon.co.uk": {
+      "checkedAt": "2026-05-31T10:51:32.241Z",
+      "source": "europe-retail"
+    },
+    "welshandjefferies.wix.com": {
+      "checkedAt": "2026-05-31T10:51:32.511Z",
+      "source": "europe-retail"
+    },
+    "cadandthedandy.co.uk": {
+      "checkedAt": "2026-05-31T10:51:32.591Z",
+      "source": "europe-retail"
+    },
+    "daviesandson.com": {
+      "checkedAt": "2026-05-31T10:51:33.262Z",
+      "source": "europe-retail"
+    },
+    "garyanderson.com": {
+      "checkedAt": "2026-05-31T10:51:33.690Z",
+      "source": "europe-retail"
+    },
+    "henrypoole.com": {
+      "checkedAt": "2026-05-31T10:51:34.288Z",
+      "source": "europe-retail"
+    },
+    "jeffbankssavilerow.com": {
+      "checkedAt": "2026-05-31T10:51:34.340Z",
+      "source": "europe-retail"
+    },
+    "kathrynsargent.com": {
+      "checkedAt": "2026-05-31T10:51:34.395Z",
+      "source": "europe-retail"
+    },
+    "lanvin.com": {
+      "checkedAt": "2026-05-31T10:51:34.945Z",
+      "source": "europe-retail"
+    },
+    "savilerowtailor.com": {
+      "checkedAt": "2026-05-31T10:51:35.640Z",
+      "source": "europe-retail"
+    },
+    "nortonandsons.co.uk": {
+      "checkedAt": "2026-05-31T10:51:36.539Z",
+      "source": "europe-retail"
+    },
+    "ozwaldboateng.co.uk": {
+      "checkedAt": "2026-05-31T10:51:36.563Z",
+      "source": "europe-retail"
+    },
+    "nouvellese20.co.uk": {
+      "checkedAt": "2026-05-31T10:51:36.846Z",
+      "source": "europe-retail"
+    },
+    "thewineparlour.com": {
+      "checkedAt": "2026-05-31T10:51:36.858Z",
+      "source": "europe-retail"
+    },
+    "richmondcyclecentre.co.uk": {
+      "checkedAt": "2026-05-31T10:51:37.550Z",
+      "source": "europe-retail"
+    },
+    "kitchenrevolutions.co.uk": {
+      "checkedAt": "2026-05-31T10:51:37.555Z",
+      "source": "europe-retail"
+    },
+    "thegoodlife.bike": {
+      "checkedAt": "2026-05-31T10:51:37.814Z",
+      "source": "europe-retail"
+    },
+    "signorelli.co.uk": {
+      "checkedAt": "2026-05-31T10:51:38.140Z",
+      "source": "europe-retail"
+    },
+    "shopdogn8.co.uk": {
+      "checkedAt": "2026-05-31T10:51:39.266Z",
+      "source": "europe-retail"
+    },
+    "townbikes.co.uk": {
+      "checkedAt": "2026-05-31T10:51:39.386Z",
+      "source": "europe-retail"
+    },
+    "glutopiabakery.com": {
+      "checkedAt": "2026-05-31T10:51:39.839Z",
+      "source": "europe-retail"
+    },
+    "amalpharmacy.com": {
+      "checkedAt": "2026-05-31T10:51:40.096Z",
+      "source": "europe-retail"
+    },
+    "rushandrylondon.com": {
+      "checkedAt": "2026-05-31T10:51:40.489Z",
+      "source": "europe-retail"
+    },
+    "frankenbike.cc": {
+      "checkedAt": "2026-05-31T10:51:40.936Z",
+      "source": "europe-retail"
+    },
+    "ellis-brigham.com": {
+      "checkedAt": "2026-05-31T10:51:41.391Z",
+      "source": "europe-retail"
+    },
+    "childrenofthemekong.org": {
+      "checkedAt": "2026-05-31T10:51:41.825Z",
+      "source": "europe-retail"
+    },
+    "pearlchemistgroup.co.uk": {
+      "checkedAt": "2026-05-31T10:51:41.868Z",
+      "source": "europe-retail"
+    },
+    "harbourcycles.co.uk": {
+      "checkedAt": "2026-05-31T10:51:42.704Z",
+      "source": "europe-retail"
+    },
+    "oree.co.uk": {
+      "checkedAt": "2026-05-31T10:51:43.310Z",
+      "source": "europe-retail"
+    },
+    "libreria.io": {
+      "checkedAt": "2026-05-31T10:51:44.093Z",
+      "source": "europe-retail"
+    },
+    "xobikes.com": {
+      "checkedAt": "2026-05-31T10:51:45.154Z",
+      "source": "europe-retail"
+    },
+    "dulwichvintners.co.uk": {
+      "checkedAt": "2026-05-31T10:51:46.843Z",
+      "source": "europe-retail"
+    },
+    "rococochocolates.com": {
+      "checkedAt": "2026-05-31T10:51:47.806Z",
+      "source": "europe-retail"
+    },
+    "sarahzaaraz.com": {
+      "checkedAt": "2026-05-31T10:51:49.508Z",
+      "source": "europe-retail"
+    },
+    "bookmongers.com": {
+      "checkedAt": "2026-05-31T10:51:49.882Z",
+      "source": "europe-retail"
+    },
+    "bubbleshairstudio.co.uk": {
+      "checkedAt": "2026-05-31T10:51:50.184Z",
+      "source": "europe-retail"
+    },
+    "worldsendbookshop.com": {
+      "checkedAt": "2026-05-31T10:51:50.416Z",
+      "source": "europe-retail"
+    },
+    "stpaulsshop.co.uk": {
+      "checkedAt": "2026-05-31T10:51:50.888Z",
+      "source": "europe-retail"
+    },
+    "tularose.com": {
+      "checkedAt": "2026-05-31T10:51:51.358Z",
+      "source": "europe-retail"
+    },
+    "bonvelo.co.uk": {
+      "checkedAt": "2026-05-31T10:51:52.242Z",
+      "source": "europe-retail"
+    },
+    "wearaboutsonline.com": {
+      "checkedAt": "2026-05-31T10:51:52.493Z",
+      "source": "europe-retail"
+    },
+    "floralhall.co.uk": {
+      "checkedAt": "2026-05-31T10:51:52.550Z",
+      "source": "europe-retail"
+    },
+    "barronsalon.com": {
+      "checkedAt": "2026-05-31T10:51:53.106Z",
+      "source": "europe-retail"
+    },
+    "luxurybeautyandspa.co.uk": {
+      "checkedAt": "2026-05-31T10:51:53.418Z",
+      "source": "europe-retail"
+    },
+    "flawlesstouch.co": {
+      "checkedAt": "2026-05-31T10:51:53.812Z",
+      "source": "europe-retail"
+    },
+    "primrose-bakery.co.uk": {
+      "checkedAt": "2026-05-31T10:51:54.238Z",
+      "source": "europe-retail"
+    },
+    "nothing.tech": {
+      "checkedAt": "2026-05-31T10:51:55.408Z",
+      "source": "europe-retail"
+    },
+    "meatjon.com": {
+      "checkedAt": "2026-05-31T10:51:55.636Z",
+      "source": "europe-retail"
+    },
+    "elitehairlounge.co.uk": {
+      "checkedAt": "2026-05-31T10:51:55.950Z",
+      "source": "europe-retail"
+    },
+    "lathanielscouture.co.uk": {
+      "checkedAt": "2026-05-31T10:51:56.214Z",
+      "source": "europe-retail"
+    },
+    "goodlooksbeauty.co.uk": {
+      "checkedAt": "2026-05-31T10:51:56.517Z",
+      "source": "europe-retail"
+    },
+    "alphashadows.com": {
+      "checkedAt": "2026-05-31T10:51:56.691Z",
+      "source": "europe-retail"
+    },
+    "bunchlondon.com": {
+      "checkedAt": "2026-05-31T10:51:57.154Z",
+      "source": "europe-retail"
+    },
+    "diana-george.co.uk": {
+      "checkedAt": "2026-05-31T10:51:57.396Z",
+      "source": "europe-retail"
+    },
+    "queenb.london": {
+      "checkedAt": "2026-05-31T10:51:57.541Z",
+      "source": "europe-retail"
+    },
+    "wearaboutsschoolwear.co.uk": {
+      "checkedAt": "2026-05-31T10:51:57.927Z",
+      "source": "europe-retail"
+    },
+    "houseofcarpetsandcurtains.co.uk": {
+      "checkedAt": "2026-05-31T10:51:58.070Z",
+      "source": "europe-retail"
+    },
+    "shopbillings.co.uk": {
+      "checkedAt": "2026-05-31T10:51:58.092Z",
+      "source": "europe-retail"
+    },
+    "touchwoodpharmacy.com": {
+      "checkedAt": "2026-05-31T10:51:58.572Z",
+      "source": "europe-retail"
+    },
+    "pcfixup.co.uk": {
+      "checkedAt": "2026-05-31T10:52:00.092Z",
+      "source": "europe-retail"
+    },
+    "andrewflemingflorist.net": {
+      "checkedAt": "2026-05-31T10:52:01.059Z",
+      "source": "europe-retail"
+    },
+    "mamanasha.co.uk": {
+      "checkedAt": "2026-05-31T10:52:01.778Z",
+      "source": "europe-retail"
+    },
+    "butchercurnow.com": {
+      "checkedAt": "2026-05-31T10:52:02.390Z",
+      "source": "europe-retail"
+    },
+    "donlonbooks.com": {
+      "checkedAt": "2026-05-31T10:52:04.625Z",
+      "source": "europe-retail"
+    },
+    "cosmessex.co.uk": {
+      "checkedAt": "2026-05-31T10:52:05.277Z",
+      "source": "europe-retail"
+    },
+    "sevenoakssoundandvision.co.uk": {
+      "checkedAt": "2026-05-31T10:52:05.934Z",
+      "source": "europe-retail"
+    },
+    "davidlawjeweller.com": {
+      "checkedAt": "2026-05-31T10:52:06.202Z",
+      "source": "europe-retail"
+    },
+    "pureglow.info": {
+      "checkedAt": "2026-05-31T10:52:07.176Z",
+      "source": "europe-retail"
+    },
+    "davidmellordesign.com": {
+      "checkedAt": "2026-05-31T10:52:07.706Z",
+      "source": "europe-retail"
+    },
+    "lush.com": {
+      "checkedAt": "2026-05-31T10:52:07.845Z",
+      "source": "europe-retail"
+    },
+    "cromfordleather.co.uk": {
+      "checkedAt": "2026-05-31T10:52:08.282Z",
+      "source": "europe-retail"
+    },
+    "uk.sabah.am": {
+      "checkedAt": "2026-05-31T10:52:09.543Z",
+      "source": "europe-retail"
+    },
+    "johnsimons.co.uk": {
+      "checkedAt": "2026-05-31T10:52:10.215Z",
+      "source": "europe-retail"
+    },
+    "grandirosa.com": {
+      "checkedAt": "2026-05-31T10:52:10.251Z",
+      "source": "europe-retail"
+    },
+    "monocle.com": {
+      "checkedAt": "2026-05-31T10:52:10.431Z",
+      "source": "europe-retail"
+    },
+    "crispinsshoes.com": {
+      "checkedAt": "2026-05-31T10:52:10.909Z",
+      "source": "europe-retail"
+    },
+    "kimai.com": {
+      "checkedAt": "2026-05-31T10:52:11.049Z",
+      "source": "europe-retail"
+    },
+    "newandlingwood.com": {
+      "checkedAt": "2026-05-31T10:52:11.173Z",
+      "source": "europe-retail"
+    },
+    "coxandpower.com": {
+      "checkedAt": "2026-05-31T10:52:11.755Z",
+      "source": "europe-retail"
+    },
+    "casely-hayford.com": {
+      "checkedAt": "2026-05-31T10:52:12.473Z",
+      "source": "europe-retail"
+    },
+    "uk.velasca.com": {
+      "checkedAt": "2026-05-31T10:52:12.521Z",
+      "source": "europe-retail"
+    },
+    "ovieyalondon.co.uk": {
+      "checkedAt": "2026-05-31T10:52:13.125Z",
+      "source": "europe-retail"
+    },
+    "irenebakery.co.uk": {
+      "checkedAt": "2026-05-31T10:52:14.010Z",
+      "source": "europe-retail"
+    },
+    "thaistudio.co.uk": {
+      "checkedAt": "2026-05-31T10:52:14.085Z",
+      "source": "europe-retail"
+    },
+    "roomsofclapton.com": {
+      "checkedAt": "2026-05-31T10:52:14.542Z",
+      "source": "europe-retail"
+    },
+    "karizmahair.co.uk": {
+      "checkedAt": "2026-05-31T10:52:15.105Z",
+      "source": "europe-retail"
+    },
+    "withlovebridals.com": {
+      "checkedAt": "2026-05-31T10:52:15.557Z",
+      "source": "europe-retail"
+    },
+    "bespokecycling.com": {
+      "checkedAt": "2026-05-31T10:52:15.635Z",
+      "source": "europe-retail"
+    },
+    "sarafoodsuk.com": {
+      "checkedAt": "2026-05-31T10:52:15.701Z",
+      "source": "europe-retail"
+    },
+    "booksforcooks.com": {
+      "checkedAt": "2026-05-31T10:52:16.545Z",
+      "source": "europe-retail"
+    },
+    "myforeverrose.com": {
+      "checkedAt": "2026-05-31T10:52:16.623Z",
+      "source": "europe-retail"
+    },
+    "sanitirex.co.uk": {
+      "checkedAt": "2026-05-31T10:52:17.178Z",
+      "source": "europe-retail"
+    },
+    "casachildrenswear.com": {
+      "checkedAt": "2026-05-31T10:52:17.366Z",
+      "source": "europe-retail"
+    },
+    "supercuts.co.uk": {
+      "checkedAt": "2026-05-31T10:52:17.561Z",
+      "source": "europe-retail"
+    },
+    "beaverbrooks.co.uk": {
+      "checkedAt": "2026-05-31T10:52:18.253Z",
+      "source": "europe-retail"
+    },
+    "fraserhart.co.uk": {
+      "checkedAt": "2026-05-31T10:52:18.335Z",
+      "source": "europe-retail"
+    },
+    "frankiecochrane.com": {
+      "checkedAt": "2026-05-31T10:52:18.961Z",
+      "source": "europe-retail"
+    },
+    "themelange.com": {
+      "checkedAt": "2026-05-31T10:52:19.153Z",
+      "source": "europe-retail"
+    },
+    "margaretdabbs.zenoti.com": {
+      "checkedAt": "2026-05-31T10:52:19.175Z",
+      "source": "europe-retail"
+    },
+    "nipnip.co.uk": {
+      "checkedAt": "2026-05-31T10:52:19.337Z",
+      "source": "europe-retail"
+    },
+    "harberwick.com": {
+      "checkedAt": "2026-05-31T10:52:20.078Z",
+      "source": "europe-retail"
+    },
+    "a1-furniture.co.uk": {
+      "checkedAt": "2026-05-31T10:52:21.282Z",
+      "source": "europe-retail"
+    },
+    "howdens.com": {
+      "checkedAt": "2026-05-31T10:52:21.293Z",
+      "source": "europe-retail"
+    },
+    "chaiiwala.co.uk": {
+      "checkedAt": "2026-05-31T10:52:21.647Z",
+      "source": "europe-retail"
+    },
+    "gordonmarks.com": {
+      "checkedAt": "2026-05-31T10:52:22.027Z",
+      "source": "europe-retail"
+    },
+    "farrants.co.uk": {
+      "checkedAt": "2026-05-31T10:52:22.758Z",
+      "source": "europe-retail"
+    },
+    "adrenalinsport.co.uk": {
+      "checkedAt": "2026-05-31T10:52:22.942Z",
+      "source": "europe-retail"
+    },
+    "sophiemarkshairandbeauty.co.uk": {
+      "checkedAt": "2026-05-31T10:52:23.321Z",
+      "source": "europe-retail"
+    },
+    "honour.co.uk": {
+      "checkedAt": "2026-05-31T10:52:23.623Z",
+      "source": "europe-retail"
+    },
+    "pizzapilgrims.co.uk": {
+      "checkedAt": "2026-05-31T10:52:23.789Z",
+      "source": "europe-retail"
+    },
+    "claphamflowers.co.uk": {
+      "checkedAt": "2026-05-31T10:52:23.889Z",
+      "source": "europe-retail"
+    },
+    "holdtightbikes.co.uk": {
+      "checkedAt": "2026-05-31T10:52:23.952Z",
+      "source": "europe-retail"
+    },
+    "branchingoutshop.com": {
+      "checkedAt": "2026-05-31T10:52:24.268Z",
+      "source": "europe-retail"
+    },
+    "69bpetboutique.com": {
+      "checkedAt": "2026-05-31T10:52:24.325Z",
+      "source": "europe-retail"
+    },
+    "humberclearance.co.uk": {
+      "checkedAt": "2026-05-31T10:52:24.587Z",
+      "source": "europe-retail"
+    },
+    "ealingflorist.co.uk": {
+      "checkedAt": "2026-05-31T10:52:25.127Z",
+      "source": "europe-retail"
+    },
+    "northfieldpharmacy.co..uk": {
+      "checkedAt": "2026-05-31T10:52:25.342Z",
+      "source": "europe-retail"
+    },
+    "reflectionhair.com": {
+      "checkedAt": "2026-05-31T10:52:25.416Z",
+      "source": "europe-retail"
+    },
+    "browbaselondon.co.uk": {
+      "checkedAt": "2026-05-31T10:52:25.473Z",
+      "source": "europe-retail"
+    },
+    "goodfood.org.uk": {
+      "checkedAt": "2026-05-31T10:52:25.545Z",
+      "source": "europe-retail"
+    },
+    "kets12345.wixsite.com": {
+      "checkedAt": "2026-05-31T10:52:25.877Z",
+      "source": "europe-retail"
+    },
+    "pandlcycles.co.uk": {
+      "checkedAt": "2026-05-31T10:52:26.055Z",
+      "source": "europe-retail"
+    },
+    "oceaniahealthandbeauty.co.uk": {
+      "checkedAt": "2026-05-31T10:52:26.107Z",
+      "source": "europe-retail"
+    },
+    "tuck-shop.co.uk": {
+      "checkedAt": "2026-05-31T10:52:26.733Z",
+      "source": "europe-retail"
+    },
+    "tapi.co.uk": {
+      "checkedAt": "2026-05-31T10:52:26.874Z",
+      "source": "europe-retail"
+    },
+    "sbdistribution.co.uk": {
+      "checkedAt": "2026-05-31T10:52:27.263Z",
+      "source": "europe-retail"
+    },
+    "harperltd.co.uk": {
+      "checkedAt": "2026-05-31T10:52:28.136Z",
+      "source": "europe-retail"
+    },
+    "leightons.co.uk": {
+      "checkedAt": "2026-05-31T10:52:28.754Z",
+      "source": "europe-retail"
+    },
+    "cobham-beauty.co.uk": {
+      "checkedAt": "2026-05-31T10:52:28.989Z",
+      "source": "europe-retail"
+    },
+    "nailspacobham.co.uk": {
+      "checkedAt": "2026-05-31T10:52:29.091Z",
+      "source": "europe-retail"
+    },
+    "cobhamfurniture.co.uk": {
+      "checkedAt": "2026-05-31T10:52:29.178Z",
+      "source": "europe-retail"
+    },
+    "theopticalco.co.uk": {
+      "checkedAt": "2026-05-31T10:52:29.392Z",
+      "source": "europe-retail"
+    },
+    "numbersixcobham.co.uk": {
+      "checkedAt": "2026-05-31T10:52:29.713Z",
+      "source": "europe-retail"
+    },
+    "moonflowercobham.com": {
+      "checkedAt": "2026-05-31T10:52:29.837Z",
+      "source": "europe-retail"
+    },
+    "cobhambooks.com": {
+      "checkedAt": "2026-05-31T10:52:29.942Z",
+      "source": "europe-retail"
+    },
+    "davidclulow.com": {
+      "checkedAt": "2026-05-31T10:52:30.399Z",
+      "source": "europe-retail"
+    },
+    "ismash.com": {
+      "checkedAt": "2026-05-31T10:52:30.791Z",
+      "source": "europe-retail"
+    },
+    "sweetsfromheaven.co.uk": {
+      "checkedAt": "2026-05-31T10:52:30.828Z",
+      "source": "europe-retail"
+    },
+    "edennailsandbeauty.co.uk": {
+      "checkedAt": "2026-05-31T10:52:30.968Z",
+      "source": "europe-retail"
+    },
+    "confettiandlace.com": {
+      "checkedAt": "2026-05-31T10:52:31.083Z",
+      "source": "europe-retail"
+    },
+    "trespass.com": {
+      "checkedAt": "2026-05-31T10:52:31.120Z",
+      "source": "europe-retail"
+    },
+    "hugoboss.com": {
+      "checkedAt": "2026-05-31T10:52:31.963Z",
+      "source": "europe-retail"
+    },
+    "gant.co.uk": {
+      "checkedAt": "2026-05-31T10:52:32.357Z",
+      "source": "europe-retail"
+    },
+    "deichmann.com": {
+      "checkedAt": "2026-05-31T10:52:32.796Z",
+      "source": "europe-retail"
+    },
+    "laylabakery.com": {
+      "checkedAt": "2026-05-31T10:52:33.122Z",
+      "source": "europe-retail"
+    },
+    "ekbakery.co.uk": {
+      "checkedAt": "2026-05-31T10:52:33.480Z",
+      "source": "europe-retail"
+    },
+    "firstswimlondon.co.uk": {
+      "checkedAt": "2026-05-31T10:52:34.244Z",
+      "source": "europe-retail"
+    },
+    "ebay.co.uk": {
+      "checkedAt": "2026-05-31T10:52:34.326Z",
+      "source": "europe-retail"
+    },
+    "recycleabike.co.uk": {
+      "checkedAt": "2026-05-31T10:52:34.395Z",
+      "source": "europe-retail"
+    },
+    "personaleyez-me.co.uk": {
+      "checkedAt": "2026-05-31T10:52:34.671Z",
+      "source": "europe-retail"
+    },
+    "futoncompany.co.uk": {
+      "checkedAt": "2026-05-31T10:52:34.944Z",
+      "source": "europe-retail"
+    },
+    "valuecarpartsonline.co.uk": {
+      "checkedAt": "2026-05-31T10:52:35.320Z",
+      "source": "europe-retail"
+    },
+    "pioneeris.co.uk": {
+      "checkedAt": "2026-05-31T10:52:35.500Z",
+      "source": "europe-retail"
+    },
+    "optician.optical-center.co.uk": {
+      "checkedAt": "2026-05-31T10:52:35.869Z",
+      "source": "europe-retail"
+    },
+    "uk.kutchenhaus.com": {
+      "checkedAt": "2026-05-31T10:52:36.080Z",
+      "source": "europe-retail"
+    },
+    "nicobouquet.com": {
+      "checkedAt": "2026-05-31T10:52:36.158Z",
+      "source": "europe-retail"
+    },
+    "londonwatersportsco.com": {
+      "checkedAt": "2026-05-31T10:52:36.678Z",
+      "source": "europe-retail"
+    },
+    "kingsoflondon.london": {
+      "checkedAt": "2026-05-31T10:52:36.808Z",
+      "source": "europe-retail"
+    },
+    "fixit-diy.co.uk": {
+      "checkedAt": "2026-05-31T10:52:36.850Z",
+      "source": "europe-retail"
+    },
+    "top-paws.co.uk": {
+      "checkedAt": "2026-05-31T10:52:37.211Z",
+      "source": "europe-retail"
+    },
+    "euro-wines.co.uk": {
+      "checkedAt": "2026-05-31T10:52:37.376Z",
+      "source": "europe-retail"
+    },
+    "baloolahhair.com": {
+      "checkedAt": "2026-05-31T10:52:37.861Z",
+      "source": "europe-retail"
+    },
+    "hairdesignco-hornchurch.co.uk": {
+      "checkedAt": "2026-05-31T10:52:37.994Z",
+      "source": "europe-retail"
+    },
+    "bespokegoldsmith.co.uk": {
+      "checkedAt": "2026-05-31T10:52:38.074Z",
+      "source": "europe-retail"
+    },
+    "brocklehurstltd.com": {
+      "checkedAt": "2026-05-31T10:52:38.123Z",
+      "source": "europe-retail"
+    },
+    "whiskeysgrooming.co.uk": {
+      "checkedAt": "2026-05-31T10:52:38.568Z",
+      "source": "europe-retail"
+    },
+    "lacasadogdaycare.com": {
+      "checkedAt": "2026-05-31T10:52:38.644Z",
+      "source": "europe-retail"
+    },
+    "windmillflowers.co.uk": {
+      "checkedAt": "2026-05-31T10:52:39.064Z",
+      "source": "europe-retail"
+    },
+    "nctilesandbathrooms.com": {
+      "checkedAt": "2026-05-31T10:52:39.456Z",
+      "source": "europe-retail"
+    },
+    "puresynergie.co.uk": {
+      "checkedAt": "2026-05-31T10:52:40.459Z",
+      "source": "europe-retail"
+    },
+    "passion-flower.net": {
+      "checkedAt": "2026-05-31T10:52:40.470Z",
+      "source": "europe-retail"
+    },
+    "thevoewood.com": {
+      "checkedAt": "2026-05-31T10:52:40.852Z",
+      "source": "europe-retail"
+    },
+    "coton-hamblin.com": {
+      "checkedAt": "2026-05-31T10:52:41.447Z",
+      "source": "europe-retail"
+    },
+    "headlinerzbarbershop.co.uk": {
+      "checkedAt": "2026-05-31T10:52:41.540Z",
+      "source": "europe-retail"
+    },
+    "onesixsixvelo.com": {
+      "checkedAt": "2026-05-31T10:52:41.851Z",
+      "source": "europe-retail"
+    },
+    "morkbarbershop.com": {
+      "checkedAt": "2026-05-31T10:52:42.860Z",
+      "source": "europe-retail"
+    },
+    "postmarkonline.co.uk": {
+      "checkedAt": "2026-05-31T10:52:43.154Z",
+      "source": "europe-retail"
+    },
+    "dragonflylifestyle.co.uk": {
+      "checkedAt": "2026-05-31T10:52:44.439Z",
+      "source": "europe-retail"
+    },
+    "beadoirme.co.uk": {
+      "checkedAt": "2026-05-31T10:52:45.404Z",
+      "source": "europe-retail"
+    },
+    "paulrhodesbakery.co.uk": {
+      "checkedAt": "2026-05-31T10:52:46.147Z",
+      "source": "europe-retail"
+    },
+    "thefudgepatch.co.uk": {
+      "checkedAt": "2026-05-31T10:52:46.502Z",
+      "source": "europe-retail"
+    },
+    "artofzeroliving.uk": {
+      "checkedAt": "2026-05-31T10:52:47.428Z",
+      "source": "europe-retail"
+    },
+    "autumnandmay.co.uk": {
+      "checkedAt": "2026-05-31T10:52:47.830Z",
+      "source": "europe-retail"
+    },
+    "karengold.london": {
+      "checkedAt": "2026-05-31T10:52:48.195Z",
+      "source": "europe-retail"
+    },
+    "unitedideas.co.uk": {
+      "checkedAt": "2026-05-31T10:52:51.592Z",
+      "source": "europe-retail"
+    },
+    "mrhumbug.com": {
+      "checkedAt": "2026-05-31T10:52:52.369Z",
+      "source": "europe-retail"
+    },
+    "uksystem.co.uk": {
+      "checkedAt": "2026-05-31T10:52:52.980Z",
+      "source": "europe-retail"
+    },
+    "thegreenwichspa.co.uk": {
+      "checkedAt": "2026-05-31T10:52:52.987Z",
+      "source": "europe-retail"
+    },
+    "waterstones.com": {
+      "checkedAt": "2026-05-31T10:52:53.752Z",
+      "source": "europe-retail"
+    },
+    "auraorganicsspa-greenwich.com": {
+      "checkedAt": "2026-05-31T10:52:53.769Z",
+      "source": "europe-retail"
+    },
+    "meridian-cycles.co.uk": {
+      "checkedAt": "2026-05-31T10:52:54.044Z",
+      "source": "europe-retail"
+    },
+    "greenwichcycleworkshop.co.uk": {
+      "checkedAt": "2026-05-31T10:52:54.948Z",
+      "source": "europe-retail"
+    },
+    "lecreuset.co.uk": {
+      "checkedAt": "2026-05-31T10:52:55.050Z",
+      "source": "europe-retail"
+    },
+    "maxivise.com": {
+      "checkedAt": "2026-05-31T10:52:55.468Z",
+      "source": "europe-retail"
+    },
+    "bluetitlondon.com": {
+      "checkedAt": "2026-05-31T10:52:55.728Z",
+      "source": "europe-retail"
+    },
+    "petscorner.co.uk": {
+      "checkedAt": "2026-05-31T10:52:56.104Z",
+      "source": "europe-retail"
+    },
+    "blackheathvintners.co.uk": {
+      "checkedAt": "2026-05-31T10:52:56.682Z",
+      "source": "europe-retail"
+    },
+    "chandlerwright.com": {
+      "checkedAt": "2026-05-31T10:52:56.713Z",
+      "source": "europe-retail"
+    },
+    "selectric.co.uk": {
+      "checkedAt": "2026-05-31T10:52:57.258Z",
+      "source": "europe-retail"
+    },
+    "grandcruco.com": {
+      "checkedAt": "2026-05-31T10:52:57.890Z",
+      "source": "europe-retail"
+    },
+    "eddiesdogshop.com": {
+      "checkedAt": "2026-05-31T10:52:58.347Z",
+      "source": "europe-retail"
+    },
+    "kmisobeauty.co.uk": {
+      "checkedAt": "2026-05-31T10:52:58.924Z",
+      "source": "europe-retail"
+    },
+    "torqueelectric.co.uk": {
+      "checkedAt": "2026-05-31T10:52:58.932Z",
+      "source": "europe-retail"
+    },
+    "thebohemianssalon.com": {
+      "checkedAt": "2026-05-31T10:52:59.290Z",
+      "source": "europe-retail"
+    },
+    "welchome.co.uk": {
+      "checkedAt": "2026-05-31T10:52:59.702Z",
+      "source": "europe-retail"
+    },
+    "ellisbass.co.uk": {
+      "checkedAt": "2026-05-31T10:52:59.842Z",
+      "source": "europe-retail"
+    },
+    "sixtysixsalon.com": {
+      "checkedAt": "2026-05-31T10:53:00.154Z",
+      "source": "europe-retail"
+    },
+    "miragebeautylondon.com": {
+      "checkedAt": "2026-05-31T10:53:00.308Z",
+      "source": "europe-retail"
+    },
+    "cyclistsfc.org.uk": {
+      "checkedAt": "2026-05-31T10:53:00.500Z",
+      "source": "europe-retail"
+    },
+    "blackheathtyres.com": {
+      "checkedAt": "2026-05-31T10:53:01.139Z",
+      "source": "europe-retail"
+    },
+    "beautyboxbychristine.co.uk": {
+      "checkedAt": "2026-05-31T10:53:01.327Z",
+      "source": "europe-retail"
+    },
+    "clayhallbeauty.co.uk": {
+      "checkedAt": "2026-05-31T10:53:01.842Z",
+      "source": "europe-retail"
+    },
+    "rigbyandpeller.com": {
+      "checkedAt": "2026-05-31T10:53:02.134Z",
+      "source": "europe-retail"
+    },
+    "procook.co.uk": {
+      "checkedAt": "2026-05-31T10:53:02.306Z",
+      "source": "europe-retail"
+    },
+    "chisholmhunter.co.uk": {
+      "checkedAt": "2026-05-31T10:53:02.653Z",
+      "source": "europe-retail"
+    },
+    "fixiesworkshop.uk": {
+      "checkedAt": "2026-05-31T10:53:03.177Z",
+      "source": "europe-retail"
+    },
+    "davidjohnhair.co.uk": {
+      "checkedAt": "2026-05-31T10:53:03.270Z",
+      "source": "europe-retail"
+    },
+    "woodlands-pharmacy.co.uk": {
+      "checkedAt": "2026-05-31T10:53:03.516Z",
+      "source": "europe-retail"
+    },
+    "changeofheartlondon.com": {
+      "checkedAt": "2026-05-31T10:53:03.863Z",
+      "source": "europe-retail"
+    },
+    "furniturevillage.co.uk": {
+      "checkedAt": "2026-05-31T10:53:03.957Z",
+      "source": "europe-retail"
+    },
+    "hilario.uk": {
+      "checkedAt": "2026-05-31T10:53:04.413Z",
+      "source": "europe-retail"
+    },
+    "ragnbone.london": {
+      "checkedAt": "2026-05-31T10:53:04.440Z",
+      "source": "europe-retail"
+    },
+    "vetralandtimber.london": {
+      "checkedAt": "2026-05-31T10:53:04.964Z",
+      "source": "europe-retail"
+    },
+    "blakesheaven.com": {
+      "checkedAt": "2026-05-31T10:53:04.991Z",
+      "source": "europe-retail"
+    },
+    "adlink.co.uk": {
+      "checkedAt": "2026-05-31T10:53:05.191Z",
+      "source": "europe-retail"
+    },
+    "lashtique.co.uk": {
+      "checkedAt": "2026-05-31T10:53:05.829Z",
+      "source": "europe-retail"
+    },
+    "pettswoodspa.co.uk": {
+      "checkedAt": "2026-05-31T10:53:06.167Z",
+      "source": "europe-retail"
+    },
+    "fabiia.com": {
+      "checkedAt": "2026-05-31T10:53:06.402Z",
+      "source": "europe-retail"
+    },
+    "crystalise-salon.co.uk": {
+      "checkedAt": "2026-05-31T10:53:08.147Z",
+      "source": "europe-retail"
+    },
+    "tilahairstudio.com": {
+      "checkedAt": "2026-05-31T10:53:08.280Z",
+      "source": "europe-retail"
+    },
+    "herbal-inn-bluewater.mytreatwell.co.uk": {
+      "checkedAt": "2026-05-31T10:53:09.764Z",
+      "source": "europe-retail"
+    },
+    "violapets.co.uk": {
+      "checkedAt": "2026-05-31T10:53:10.078Z",
+      "source": "europe-retail"
+    },
+    "thecuriouscomb.co.uk": {
+      "checkedAt": "2026-05-31T10:53:10.830Z",
+      "source": "europe-retail"
+    },
+    "davids-deli.co.uk": {
+      "checkedAt": "2026-05-31T10:53:11.107Z",
+      "source": "europe-retail"
+    },
+    "hadleyav.co.uk": {
+      "checkedAt": "2026-05-31T10:53:12.109Z",
+      "source": "europe-retail"
+    },
+    "gettyspace.co.uk": {
+      "checkedAt": "2026-05-31T10:53:13.369Z",
+      "source": "europe-retail"
+    },
+    "uk.jonathanadler.com": {
+      "checkedAt": "2026-05-31T10:53:13.397Z",
+      "source": "europe-retail"
+    },
+    "hkuk.co.uk": {
+      "checkedAt": "2026-05-31T10:53:13.823Z",
+      "source": "europe-retail"
+    },
+    "odysseymalegrooming.com": {
+      "checkedAt": "2026-05-31T10:53:14.768Z",
+      "source": "europe-retail"
+    },
+    "hertsbeautyhouse.com": {
+      "checkedAt": "2026-05-31T10:53:15.352Z",
+      "source": "europe-retail"
+    },
+    "ramzansolution.co.uk": {
+      "checkedAt": "2026-05-31T10:53:15.571Z",
+      "source": "europe-retail"
+    },
+    "officialroyalaroma.com": {
+      "checkedAt": "2026-05-31T10:53:16.736Z",
+      "source": "europe-retail"
+    },
+    "cutbox.co.uk": {
+      "checkedAt": "2026-05-31T10:53:16.761Z",
+      "source": "europe-retail"
+    },
+    "cosmeticbeautyuk.com": {
+      "checkedAt": "2026-05-31T10:53:17.561Z",
+      "source": "europe-retail"
+    },
+    "garciahairlounge.co.uk": {
+      "checkedAt": "2026-05-31T10:53:17.734Z",
+      "source": "europe-retail"
+    },
+    "ellies-studio.mytreatwell.co.uk": {
+      "checkedAt": "2026-05-31T10:53:18.126Z",
+      "source": "europe-retail"
+    },
+    "jasminbloom.com": {
+      "checkedAt": "2026-05-31T10:53:18.489Z",
+      "source": "europe-retail"
+    },
+    "raptorbikes.cc": {
+      "checkedAt": "2026-05-31T10:53:18.804Z",
+      "source": "europe-retail"
+    },
+    "mbe.co.uk": {
+      "checkedAt": "2026-05-31T10:53:19.203Z",
+      "source": "europe-retail"
+    },
+    "linktr.ee": {
+      "checkedAt": "2026-05-31T10:53:19.558Z",
+      "source": "europe-retail"
+    },
+    "blackheathflowerco.co.uk": {
+      "checkedAt": "2026-05-31T10:53:19.754Z",
+      "source": "europe-retail"
+    },
+    "berbagroup.com": {
+      "checkedAt": "2026-05-31T10:53:19.970Z",
+      "source": "europe-retail"
+    },
+    "orientalflowersdesigns.co.uk": {
+      "checkedAt": "2026-05-31T10:53:19.990Z",
+      "source": "europe-retail"
+    },
+    "poloniahair.co.uk": {
+      "checkedAt": "2026-05-31T10:53:20.376Z",
+      "source": "europe-retail"
+    },
+    "urbanrootslondon.com": {
+      "checkedAt": "2026-05-31T10:53:20.559Z",
+      "source": "europe-retail"
+    },
+    "walbrookpharmacy.co.uk": {
+      "checkedAt": "2026-05-31T10:53:21.204Z",
+      "source": "europe-retail"
+    },
+    "madeingreenwich.shop": {
+      "checkedAt": "2026-05-31T10:53:21.538Z",
+      "source": "europe-retail"
+    },
+    "miss20.co.uk": {
+      "checkedAt": "2026-05-31T10:53:21.912Z",
+      "source": "europe-retail"
+    },
+    "estellabartlett.com": {
+      "checkedAt": "2026-05-31T10:53:22.696Z",
+      "source": "europe-retail"
+    },
+    "aldermanspharmacy.com": {
+      "checkedAt": "2026-05-31T10:53:23.200Z",
+      "source": "europe-retail"
+    },
+    "chalklondon.com": {
+      "checkedAt": "2026-05-31T10:53:24.187Z",
+      "source": "europe-retail"
+    },
+    "greenwichgadgets.com": {
+      "checkedAt": "2026-05-31T10:53:24.317Z",
+      "source": "europe-retail"
+    },
+    "offcutbarbers.com": {
+      "checkedAt": "2026-05-31T10:53:24.483Z",
+      "source": "europe-retail"
+    },
+    "bunheadbakery.com": {
+      "checkedAt": "2026-05-31T10:53:24.544Z",
+      "source": "europe-retail"
+    },
+    "delmergate.com": {
+      "checkedAt": "2026-05-31T10:53:24.722Z",
+      "source": "europe-retail"
+    },
+    "butternutbikes.co.uk": {
+      "checkedAt": "2026-05-31T10:53:25.192Z",
+      "source": "europe-retail"
+    },
+    "jeroboams.co.uk": {
+      "checkedAt": "2026-05-31T10:53:26.081Z",
+      "source": "europe-retail"
+    },
+    "camdentea.shop": {
+      "checkedAt": "2026-05-31T10:53:26.940Z",
+      "source": "europe-retail"
+    },
+    "drings.co.uk": {
+      "checkedAt": "2026-05-31T10:53:27.078Z",
+      "source": "europe-retail"
+    },
+    "thecreakyshed.co.uk": {
+      "checkedAt": "2026-05-31T10:53:27.199Z",
+      "source": "europe-retail"
+    },
+    "highflyingballoons.co.uk": {
+      "checkedAt": "2026-05-31T10:53:27.626Z",
+      "source": "europe-retail"
+    },
+    "dkuk.biz": {
+      "checkedAt": "2026-05-31T10:53:28.183Z",
+      "source": "europe-retail"
+    },
+    "egoitaliano.com": {
+      "checkedAt": "2026-05-31T10:53:28.384Z",
+      "source": "europe-retail"
+    },
+    "accessorize.com": {
+      "checkedAt": "2026-05-31T10:53:28.904Z",
+      "source": "europe-retail"
+    },
+    "jewells.com": {
+      "checkedAt": "2026-05-31T10:53:29.613Z",
+      "source": "europe-retail"
+    },
+    "littleparisstore.com": {
+      "checkedAt": "2026-05-31T10:53:30.172Z",
+      "source": "europe-retail"
+    },
+    "pachara.co.uk": {
+      "checkedAt": "2026-05-31T10:53:30.185Z",
+      "source": "europe-retail"
+    },
+    "rhodacrouchend.com": {
+      "checkedAt": "2026-05-31T10:53:30.739Z",
+      "source": "europe-retail"
+    },
+    "aquaticdesign.co.uk": {
+      "checkedAt": "2026-05-31T10:53:30.768Z",
+      "source": "europe-retail"
+    },
+    "schwar.co.uk": {
+      "checkedAt": "2026-05-31T10:53:31.443Z",
+      "source": "europe-retail"
+    },
+    "shech.com": {
+      "checkedAt": "2026-05-31T10:53:31.691Z",
+      "source": "europe-retail"
+    },
+    "delightkb.com": {
+      "checkedAt": "2026-05-31T10:53:32.059Z",
+      "source": "europe-retail"
+    },
+    "stiffordpharmacy.co.uk": {
+      "checkedAt": "2026-05-31T10:53:32.063Z",
+      "source": "europe-retail"
+    },
+    "thehairlounge.london": {
+      "checkedAt": "2026-05-31T10:53:32.137Z",
+      "source": "europe-retail"
+    },
+    "rebelrebel.co.uk": {
+      "checkedAt": "2026-05-31T10:53:32.333Z",
+      "source": "europe-retail"
+    },
+    "archivefurniture.co.uk": {
+      "checkedAt": "2026-05-31T10:53:32.530Z",
+      "source": "europe-retail"
+    },
+    "wearebardbooks.co.uk": {
+      "checkedAt": "2026-05-31T10:53:32.946Z",
+      "source": "europe-retail"
+    },
+    "carpetstyle.com": {
+      "checkedAt": "2026-05-31T10:53:33.543Z",
+      "source": "europe-retail"
+    },
+    "mrayaclinic.co.uk": {
+      "checkedAt": "2026-05-31T10:53:34.022Z",
+      "source": "europe-retail"
+    },
+    "petsontheparade.co.uk": {
+      "checkedAt": "2026-05-31T10:53:34.400Z",
+      "source": "europe-retail"
+    },
+    "sinbigbarbers.co.uk": {
+      "checkedAt": "2026-05-31T10:53:35.245Z",
+      "source": "europe-retail"
+    },
+    "newlocaltools.uk": {
+      "checkedAt": "2026-05-31T10:53:35.376Z",
+      "source": "europe-retail"
+    },
+    "drakes.com": {
+      "checkedAt": "2026-05-31T10:53:35.578Z",
+      "source": "europe-retail"
+    },
+    "toniandguy.com": {
+      "checkedAt": "2026-05-31T10:53:35.726Z",
+      "source": "europe-retail"
+    },
+    "littlecubs.uk": {
+      "checkedAt": "2026-05-31T10:53:35.846Z",
+      "source": "europe-retail"
+    },
+    "delmora.co.uk": {
+      "checkedAt": "2026-05-31T10:53:36.142Z",
+      "source": "europe-retail"
+    },
+    "radlettgroomingcentre.co.uk": {
+      "checkedAt": "2026-05-31T10:53:36.855Z",
+      "source": "europe-retail"
+    },
+    "saltsalonlondon.com": {
+      "checkedAt": "2026-05-31T10:53:37.103Z",
+      "source": "europe-retail"
+    },
+    "harrods.com": {
+      "checkedAt": "2026-05-31T10:53:37.550Z",
+      "source": "europe-retail"
+    },
+    "cookiesandscream.com": {
+      "checkedAt": "2026-05-31T10:53:37.689Z",
+      "source": "europe-retail"
+    },
+    "galaxyinsulation.co.uk": {
+      "checkedAt": "2026-05-31T10:53:37.835Z",
+      "source": "europe-retail"
+    },
+    "cosentino.com": {
+      "checkedAt": "2026-05-31T10:53:38.304Z",
+      "source": "europe-retail"
+    },
+    "twperfection.co.uk": {
+      "checkedAt": "2026-05-31T10:53:39.054Z",
+      "source": "europe-retail"
+    },
+    "provenancebutcher.com": {
+      "checkedAt": "2026-05-31T10:53:41.326Z",
+      "source": "europe-retail"
+    },
+    "thisisdrummerboy.com": {
+      "checkedAt": "2026-05-31T10:53:42.665Z",
+      "source": "europe-retail"
+    },
+    "northlondon.cats.org.uk": {
+      "checkedAt": "2026-05-31T10:53:42.918Z",
+      "source": "europe-retail"
+    },
+    "cartridge-refill.co.uk": {
+      "checkedAt": "2026-05-31T10:53:43.897Z",
+      "source": "europe-retail"
+    },
+    "pagesofhackney.co.uk": {
+      "checkedAt": "2026-05-31T10:53:44.234Z",
+      "source": "europe-retail"
+    },
+    "primitivebutchers.co.uk": {
+      "checkedAt": "2026-05-31T10:53:44.479Z",
+      "source": "europe-retail"
+    },
+    "foyles.co.uk": {
+      "checkedAt": "2026-05-31T10:53:46.930Z",
+      "source": "europe-retail"
+    },
+    "turasalons.com": {
+      "checkedAt": "2026-05-31T10:53:47.638Z",
+      "source": "europe-retail"
+    },
+    "scs.co.uk": {
+      "checkedAt": "2026-05-31T10:53:48.042Z",
+      "source": "europe-retail"
+    },
+    "grangerandco.com": {
+      "checkedAt": "2026-05-31T10:53:48.795Z",
+      "source": "europe-retail"
+    },
+    "stsitaliandeli.com": {
+      "checkedAt": "2026-05-31T10:53:51.009Z",
+      "source": "europe-retail"
+    },
+    "easyway-it.com": {
+      "checkedAt": "2026-05-31T10:53:51.248Z",
+      "source": "europe-retail"
+    },
+    "spacestor.uk.com": {
+      "checkedAt": "2026-05-31T10:53:51.778Z",
+      "source": "europe-retail"
+    },
+    "tokyobike.co.uk": {
+      "checkedAt": "2026-05-31T10:53:52.177Z",
+      "source": "europe-retail"
+    },
+    "hubbardscupboards.com": {
+      "checkedAt": "2026-05-31T10:53:52.448Z",
+      "source": "europe-retail"
+    },
+    "cubitts.com": {
+      "checkedAt": "2026-05-31T10:53:53.041Z",
+      "source": "europe-retail"
+    },
+    "porterfordbutchers.co.uk": {
+      "checkedAt": "2026-05-31T10:53:53.450Z",
+      "source": "europe-retail"
+    },
+    "claire-naa.com": {
+      "checkedAt": "2026-05-31T10:53:53.655Z",
+      "source": "europe-retail"
+    },
+    "chatsworthbakehouse.com": {
+      "checkedAt": "2026-05-31T10:53:53.759Z",
+      "source": "europe-retail"
+    },
+    "bicyclenation.co.uk": {
+      "checkedAt": "2026-05-31T10:53:54.769Z",
+      "source": "europe-retail"
+    },
+    "lineafashion.com": {
+      "checkedAt": "2026-05-31T10:53:54.867Z",
+      "source": "europe-retail"
+    },
+    "nourishedcommunities.com": {
+      "checkedAt": "2026-05-31T10:53:55.548Z",
+      "source": "europe-retail"
+    },
+    "rambarbers.com": {
+      "checkedAt": "2026-05-31T10:53:55.967Z",
+      "source": "europe-retail"
+    },
+    "borrowedlightflorals.com": {
+      "checkedAt": "2026-05-31T10:53:56.272Z",
+      "source": "europe-retail"
+    },
+    "barnesandbray.com": {
+      "checkedAt": "2026-05-31T10:53:56.510Z",
+      "source": "europe-retail"
+    },
+    "carolinawong.co.uk": {
+      "checkedAt": "2026-05-31T10:53:57.414Z",
+      "source": "europe-retail"
+    },
+    "georgesalon.co.uk": {
+      "checkedAt": "2026-05-31T10:53:57.615Z",
+      "source": "europe-retail"
+    },
+    "jewson.co.uk": {
+      "checkedAt": "2026-05-31T10:53:57.673Z",
+      "source": "europe-retail"
+    },
+    "copasfarms.co.uk": {
+      "checkedAt": "2026-05-31T10:53:57.718Z",
+      "source": "europe-retail"
+    },
+    "emsbarbershop.co.uk": {
+      "checkedAt": "2026-05-31T10:53:57.970Z",
+      "source": "europe-retail"
+    },
+    "postcardteas.com": {
+      "checkedAt": "2026-05-31T10:53:58.353Z",
+      "source": "europe-retail"
+    },
+    "ganapathy.co.uk": {
+      "checkedAt": "2026-05-31T10:53:58.844Z",
+      "source": "europe-retail"
+    },
+    "freedompress.org.uk": {
+      "checkedAt": "2026-05-31T10:53:59.174Z",
+      "source": "europe-retail"
+    },
+    "sonofastag.com": {
+      "checkedAt": "2026-05-31T10:53:59.259Z",
+      "source": "europe-retail"
+    },
+    "newtonsapplerepair.com": {
+      "checkedAt": "2026-05-31T10:54:00.417Z",
+      "source": "europe-retail"
+    },
+    "darksugars.co.uk": {
+      "checkedAt": "2026-05-31T10:54:00.885Z",
+      "source": "europe-retail"
+    },
+    "watlingtyres.co.uk": {
+      "checkedAt": "2026-05-31T10:54:01.789Z",
+      "source": "europe-retail"
+    },
+    "theshoreditchspa.com": {
+      "checkedAt": "2026-05-31T10:54:01.896Z",
+      "source": "europe-retail"
+    },
+    "onlinecelebrations.co.uk": {
+      "checkedAt": "2026-05-31T10:54:01.983Z",
+      "source": "europe-retail"
+    },
+    "bakeandcake.co.uk": {
+      "checkedAt": "2026-05-31T10:54:02.309Z",
+      "source": "europe-retail"
+    },
+    "leafandgroove.com": {
+      "checkedAt": "2026-05-31T10:54:02.647Z",
+      "source": "europe-retail"
+    },
+    "londoneyecarecentre.co.uk": {
+      "checkedAt": "2026-05-31T10:54:03.058Z",
+      "source": "europe-retail"
+    },
+    "gaystheword.co.uk": {
+      "checkedAt": "2026-05-31T10:54:03.249Z",
+      "source": "europe-retail"
+    },
+    "canadagoose.com": {
+      "checkedAt": "2026-05-31T10:54:03.496Z",
+      "source": "europe-retail"
+    },
+    "sanrizz.co.uk": {
+      "checkedAt": "2026-05-31T10:54:04.164Z",
+      "source": "europe-retail"
+    },
+    "lizdynamicdesign.co.uk": {
+      "checkedAt": "2026-05-31T10:54:04.223Z",
+      "source": "europe-retail"
+    },
+    "topbarbers.co.uk": {
+      "checkedAt": "2026-05-31T10:54:04.747Z",
+      "source": "europe-retail"
+    },
+    "hetu.co.uk": {
+      "checkedAt": "2026-05-31T10:54:05.036Z",
+      "source": "europe-retail"
+    },
+    "lewishamshopping.co.uk": {
+      "checkedAt": "2026-05-31T10:54:05.826Z",
+      "source": "europe-retail"
+    },
+    "stuartikeman.co.uk": {
+      "checkedAt": "2026-05-31T10:54:06.170Z",
+      "source": "europe-retail"
+    },
+    "meroretro.com": {
+      "checkedAt": "2026-05-31T10:54:08.352Z",
+      "source": "europe-retail"
+    },
+    "apollobakery.co.uk": {
+      "checkedAt": "2026-05-31T10:54:09.055Z",
+      "source": "europe-retail"
+    },
+    "intl.isabelmarant.com": {
+      "checkedAt": "2026-05-31T10:54:09.314Z",
+      "source": "europe-retail"
+    },
+    "lseshop.com": {
+      "checkedAt": "2026-05-31T10:54:09.628Z",
+      "source": "europe-retail"
+    },
+    "atoz-computers.co.uk": {
+      "checkedAt": "2026-05-31T10:54:10.164Z",
+      "source": "europe-retail"
+    },
+    "kncouture.com": {
+      "checkedAt": "2026-05-31T10:54:11.385Z",
+      "source": "europe-retail"
+    },
+    "design-concrete.co.uk": {
+      "checkedAt": "2026-05-31T10:54:11.691Z",
+      "source": "europe-retail"
+    },
+    "travisperkins.co.uk": {
+      "checkedAt": "2026-05-31T10:54:12.000Z",
+      "source": "europe-retail"
+    },
+    "bullerandrice.com": {
+      "checkedAt": "2026-05-31T10:54:12.461Z",
+      "source": "europe-retail"
+    },
+    "yieldn16.com": {
+      "checkedAt": "2026-05-31T10:54:12.975Z",
+      "source": "europe-retail"
+    },
+    "uk.lush.com": {
+      "checkedAt": "2026-05-31T10:54:13.163Z",
+      "source": "europe-retail"
+    },
+    "harveste8.com": {
+      "checkedAt": "2026-05-31T10:54:13.685Z",
+      "source": "europe-retail"
+    },
+    "artwords.co.uk": {
+      "checkedAt": "2026-05-31T10:54:13.987Z",
+      "source": "europe-retail"
+    },
+    "noviafurniture.co.uk": {
+      "checkedAt": "2026-05-31T10:54:14.012Z",
+      "source": "europe-retail"
+    },
+    "mielbakery.co.uk": {
+      "checkedAt": "2026-05-31T10:54:14.984Z",
+      "source": "europe-retail"
+    },
+    "houseofvanitylondon.co.uk": {
+      "checkedAt": "2026-05-31T10:54:15.026Z",
+      "source": "europe-retail"
+    },
+    "guessco.co.uk": {
+      "checkedAt": "2026-05-31T10:54:15.044Z",
+      "source": "europe-retail"
+    },
+    "ritechempharmacy.com": {
+      "checkedAt": "2026-05-31T10:54:16.741Z",
+      "source": "europe-retail"
+    },
+    "klbuildingsupplies.co.uk": {
+      "checkedAt": "2026-05-31T10:54:17.492Z",
+      "source": "europe-retail"
+    },
+    "sjwackett.co.uk": {
+      "checkedAt": "2026-05-31T10:54:17.498Z",
+      "source": "europe-retail"
+    },
+    "taladaniel.co.uk": {
+      "checkedAt": "2026-05-31T10:54:17.610Z",
+      "source": "europe-retail"
+    },
+    "elegantstitch.co.uk": {
+      "checkedAt": "2026-05-31T10:54:17.853Z",
+      "source": "europe-retail"
+    },
+    "burleyfisherbooks.com": {
+      "checkedAt": "2026-05-31T10:54:17.970Z",
+      "source": "europe-retail"
+    },
+    "pctechcentre.co.uk": {
+      "checkedAt": "2026-05-31T10:54:18.783Z",
+      "source": "europe-retail"
+    },
+    "wmartyn.co.uk": {
+      "checkedAt": "2026-05-31T10:54:18.818Z",
+      "source": "europe-retail"
+    },
+    "crown-cycles.co.uk": {
+      "checkedAt": "2026-05-31T10:54:18.920Z",
+      "source": "europe-retail"
+    },
+    "oleandsteen.co.uk": {
+      "checkedAt": "2026-05-31T10:54:19.365Z",
+      "source": "europe-retail"
+    },
+    "caseysclapton.com": {
+      "checkedAt": "2026-05-31T10:54:20.121Z",
+      "source": "europe-retail"
+    },
+    "katesheridan.com": {
+      "checkedAt": "2026-05-31T10:54:20.124Z",
+      "source": "europe-retail"
+    },
+    "theworkssalon.co.uk": {
+      "checkedAt": "2026-05-31T10:54:20.322Z",
+      "source": "europe-retail"
+    },
+    "energiseebikes.co.uk": {
+      "checkedAt": "2026-05-31T10:54:20.452Z",
+      "source": "europe-retail"
+    },
+    "amadeusflorist.co.uk": {
+      "checkedAt": "2026-05-31T10:54:20.663Z",
+      "source": "europe-retail"
+    },
+    "bellandsonsbutchers.co.uk": {
+      "checkedAt": "2026-05-31T10:54:20.860Z",
+      "source": "europe-retail"
+    },
+    "spencersbutchers.com": {
+      "checkedAt": "2026-05-31T10:54:21.371Z",
+      "source": "europe-retail"
+    },
+    "upandrunning.co.uk": {
+      "checkedAt": "2026-05-31T10:54:21.543Z",
+      "source": "europe-retail"
+    },
+    "bucksbarbers.co.uk": {
+      "checkedAt": "2026-05-31T10:54:21.882Z",
+      "source": "europe-retail"
+    },
+    "richmondcycles.co.uk": {
+      "checkedAt": "2026-05-31T10:54:22.121Z",
+      "source": "europe-retail"
+    },
+    "dapperlondon.co.uk": {
+      "checkedAt": "2026-05-31T10:54:22.417Z",
+      "source": "europe-retail"
+    },
+    "sheratoninteriors.co.uk": {
+      "checkedAt": "2026-05-31T10:54:22.615Z",
+      "source": "europe-retail"
+    },
+    "wyndhamhair.com": {
+      "checkedAt": "2026-05-31T10:54:22.757Z",
+      "source": "europe-retail"
+    },
+    "huwsgray.co.uk": {
+      "checkedAt": "2026-05-31T10:54:23.003Z",
+      "source": "europe-retail"
+    },
+    "darkartscoffee.co.uk": {
+      "checkedAt": "2026-05-31T10:54:23.398Z",
+      "source": "europe-retail"
+    },
+    "theviewtube.co.uk": {
+      "checkedAt": "2026-05-31T10:54:23.622Z",
+      "source": "europe-retail"
+    },
+    "kettleclub.co.uk": {
+      "checkedAt": "2026-05-31T10:54:24.838Z",
+      "source": "europe-retail"
+    },
+    "agpriceflowers.co.uk": {
+      "checkedAt": "2026-05-31T10:54:25.151Z",
+      "source": "europe-retail"
+    },
+    "chatsworthgreen.co.uk": {
+      "checkedAt": "2026-05-31T10:54:26.066Z",
+      "source": "europe-retail"
+    },
+    "londonboroughofjam.com": {
+      "checkedAt": "2026-05-31T10:54:26.345Z",
+      "source": "europe-retail"
+    },
+    "kliniksalon.co.uk": {
+      "checkedAt": "2026-05-31T10:54:26.470Z",
+      "source": "europe-retail"
+    },
+    "fullcitycycles.co.uk": {
+      "checkedAt": "2026-05-31T10:54:27.097Z",
+      "source": "europe-retail"
+    },
+    "tandshop.com": {
+      "checkedAt": "2026-05-31T10:54:27.293Z",
+      "source": "europe-retail"
+    },
+    "yu-lasalon.com": {
+      "checkedAt": "2026-05-31T10:54:27.756Z",
+      "source": "europe-retail"
+    },
+    "velosport.co.uk": {
+      "checkedAt": "2026-05-31T10:54:28.560Z",
+      "source": "europe-retail"
+    },
+    "impressedlondon.com": {
+      "checkedAt": "2026-05-31T10:54:28.581Z",
+      "source": "europe-retail"
+    },
+    "otlane.com": {
+      "checkedAt": "2026-05-31T10:54:28.617Z",
+      "source": "europe-retail"
+    },
+    "jennyjordan.com": {
+      "checkedAt": "2026-05-31T10:54:29.716Z",
+      "source": "europe-retail"
+    },
+    "slimsbarbers.co.uk": {
+      "checkedAt": "2026-05-31T10:54:30.580Z",
+      "source": "europe-retail"
+    },
+    "thedapperfoxbarbers.co.uk": {
+      "checkedAt": "2026-05-31T10:54:30.728Z",
+      "source": "europe-retail"
+    },
+    "iluvo.co.uk": {
+      "checkedAt": "2026-05-31T10:54:31.526Z",
+      "source": "europe-retail"
+    },
+    "argun.uk": {
+      "checkedAt": "2026-05-31T10:54:32.128Z",
+      "source": "europe-retail"
+    },
+    "oaksacton.co.uk": {
+      "checkedAt": "2026-05-31T10:54:33.181Z",
+      "source": "europe-retail"
+    },
+    "paulstanford49.wixsite.com": {
+      "checkedAt": "2026-05-31T10:54:33.445Z",
+      "source": "europe-retail"
+    },
+    "claphamcycle.com": {
+      "checkedAt": "2026-05-31T10:54:33.645Z",
+      "source": "europe-retail"
+    },
+    "se20cycles.com": {
+      "checkedAt": "2026-05-31T10:54:34.198Z",
+      "source": "europe-retail"
+    },
+    "mackspharmacy.co.uk": {
+      "checkedAt": "2026-05-31T10:54:34.851Z",
+      "source": "europe-retail"
+    },
+    "thedesserts.co.uk": {
+      "checkedAt": "2026-05-31T10:54:34.981Z",
+      "source": "europe-retail"
+    },
+    "bensgrocers.com": {
+      "checkedAt": "2026-05-31T10:54:35.079Z",
+      "source": "europe-retail"
+    },
+    "primrosehillbooks.com": {
+      "checkedAt": "2026-05-31T10:54:35.229Z",
+      "source": "europe-retail"
+    },
+    "petpavilion.co.uk": {
+      "checkedAt": "2026-05-31T10:54:35.256Z",
+      "source": "europe-retail"
+    },
+    "shopatanna.com": {
+      "checkedAt": "2026-05-31T10:54:35.803Z",
+      "source": "europe-retail"
+    },
+    "pengetout.com": {
+      "checkedAt": "2026-05-31T10:54:36.435Z",
+      "source": "europe-retail"
+    },
+    "tyretrax.com": {
+      "checkedAt": "2026-05-31T10:54:36.471Z",
+      "source": "europe-retail"
+    },
+    "thurrockcycles.co.uk": {
+      "checkedAt": "2026-05-31T10:54:36.697Z",
+      "source": "europe-retail"
+    },
+    "thurrocksupplies.co.uk": {
+      "checkedAt": "2026-05-31T10:54:37.542Z",
+      "source": "europe-retail"
+    },
+    "langs.co.uk": {
+      "checkedAt": "2026-05-31T10:54:37.544Z",
+      "source": "europe-retail"
+    },
+    "stellisonselectrical.co.uk": {
+      "checkedAt": "2026-05-31T10:54:37.861Z",
+      "source": "europe-retail"
+    },
+    "ferraris-hair-studio.mytreatwell.co.uk": {
+      "checkedAt": "2026-05-31T10:54:38.885Z",
+      "source": "europe-retail"
+    },
+    "hellenicbookservice.com": {
+      "checkedAt": "2026-05-31T10:54:39.178Z",
+      "source": "europe-retail"
+    },
+    "hubhair.com": {
+      "checkedAt": "2026-05-31T10:54:40.140Z",
+      "source": "europe-retail"
+    },
+    "shotlands.co.uk": {
+      "checkedAt": "2026-05-31T10:54:40.678Z",
+      "source": "europe-retail"
+    },
+    "treatwell.co.uk": {
+      "checkedAt": "2026-05-31T10:54:41.377Z",
+      "source": "europe-retail"
+    },
+    "halfords.com": {
+      "checkedAt": "2026-05-31T10:54:41.910Z",
+      "source": "europe-retail"
+    },
+    "onyourbike.com": {
+      "checkedAt": "2026-05-31T10:54:42.685Z",
+      "source": "europe-retail"
+    },
+    "husseyswappinglane.co.uk": {
+      "checkedAt": "2026-05-31T10:54:42.867Z",
+      "source": "europe-retail"
+    },
+    "rowlandspharmacy.co.uk": {
+      "checkedAt": "2026-05-31T10:54:42.885Z",
+      "source": "europe-retail"
+    },
+    "estehairmedical.com": {
+      "checkedAt": "2026-05-31T10:54:43.932Z",
+      "source": "europe-retail"
+    },
+    "delight-wedlinka.co.uk": {
+      "checkedAt": "2026-05-31T10:54:44.855Z",
+      "source": "europe-retail"
+    },
+    "flowerstation.co.uk": {
+      "checkedAt": "2026-05-31T10:54:45.197Z",
+      "source": "europe-retail"
+    },
+    "sourdoughsophia.co.uk": {
+      "checkedAt": "2026-05-31T10:54:46.173Z",
+      "source": "europe-retail"
+    },
+    "condorcycles.com": {
+      "checkedAt": "2026-05-31T10:54:46.821Z",
+      "source": "europe-retail"
+    },
+    "wildy.com": {
+      "checkedAt": "2026-05-31T10:54:47.128Z",
+      "source": "europe-retail"
+    },
+    "thelondonbicyclerepairshop.co.uk": {
+      "checkedAt": "2026-05-31T10:54:47.170Z",
+      "source": "europe-retail"
+    },
+    "202design.co.uk": {
+      "checkedAt": "2026-05-31T10:54:47.536Z",
+      "source": "europe-retail"
+    },
+    "coexistence.co.uk": {
+      "checkedAt": "2026-05-31T10:54:48.168Z",
+      "source": "europe-retail"
+    },
+    "locator.three.co.uk": {
+      "checkedAt": "2026-05-31T10:54:48.414Z",
+      "source": "europe-retail"
+    },
+    "westelm.co.uk": {
+      "checkedAt": "2026-05-31T10:54:48.456Z",
+      "source": "europe-retail"
+    },
+    "apcstore.co.uk": {
+      "checkedAt": "2026-05-31T10:54:48.666Z",
+      "source": "europe-retail"
+    },
+    "visionexpress.com": {
+      "checkedAt": "2026-05-31T10:54:48.841Z",
+      "source": "europe-retail"
+    },
+    "rockonclimbing.co.uk": {
+      "checkedAt": "2026-05-31T10:54:49.418Z",
+      "source": "europe-retail"
+    },
+    "anthropologie.com": {
+      "checkedAt": "2026-05-31T10:54:49.935Z",
+      "source": "europe-retail"
+    },
+    "finder.well.co.uk": {
+      "checkedAt": "2026-05-31T10:54:49.980Z",
+      "source": "europe-retail"
+    },
+    "tribe-london.com": {
+      "checkedAt": "2026-05-31T10:54:50.058Z",
+      "source": "europe-retail"
+    },
+    "londonrecumbents.com": {
+      "checkedAt": "2026-05-31T10:54:50.387Z",
+      "source": "europe-retail"
+    },
+    "kensingtondesign.com": {
+      "checkedAt": "2026-05-31T10:54:50.644Z",
+      "source": "europe-retail"
+    },
+    "nealsyardremedies.com": {
+      "checkedAt": "2026-05-31T10:54:51.293Z",
+      "source": "europe-retail"
+    },
+    "provisionslondon.co.uk": {
+      "checkedAt": "2026-05-31T10:54:51.868Z",
+      "source": "europe-retail"
+    },
+    "jimmyfairly.com": {
+      "checkedAt": "2026-05-31T10:54:51.968Z",
+      "source": "europe-retail"
+    },
+    "lelabofragrances.com": {
+      "checkedAt": "2026-05-31T10:54:51.976Z",
+      "source": "europe-retail"
+    },
+    "andytuly.co.uk": {
+      "checkedAt": "2026-05-31T10:54:52.264Z",
+      "source": "europe-retail"
+    },
+    "anyamountofbooks.com": {
+      "checkedAt": "2026-05-31T10:54:52.283Z",
+      "source": "europe-retail"
+    },
+    "poundstretcher.co.uk": {
+      "checkedAt": "2026-05-31T10:54:52.413Z",
+      "source": "europe-retail"
+    },
+    "paydens.com": {
+      "checkedAt": "2026-05-31T10:54:53.149Z",
+      "source": "europe-retail"
+    },
+    "quintobookshop.co.uk": {
+      "checkedAt": "2026-05-31T10:54:54.070Z",
+      "source": "europe-retail"
+    },
+    "thesunshineco.co.uk": {
+      "checkedAt": "2026-05-31T10:54:54.118Z",
+      "source": "europe-retail"
+    },
+    "storelocator.asda.com": {
+      "checkedAt": "2026-05-31T10:54:54.129Z",
+      "source": "europe-retail"
+    },
+    "zippystitch.com": {
+      "checkedAt": "2026-05-31T10:54:54.166Z",
+      "source": "europe-retail"
+    },
+    "dubarry.com": {
+      "checkedAt": "2026-05-31T10:54:54.545Z",
+      "source": "europe-retail"
+    },
+    "paulshairdressing.co.uk": {
+      "checkedAt": "2026-05-31T10:54:54.592Z",
+      "source": "europe-retail"
+    },
+    "richardward.com": {
+      "checkedAt": "2026-05-31T10:54:56.368Z",
+      "source": "europe-retail"
+    },
+    "trilogystores.co.uk": {
+      "checkedAt": "2026-05-31T10:54:57.259Z",
+      "source": "europe-retail"
+    },
+    "chelseacakeshop.co.uk": {
+      "checkedAt": "2026-05-31T10:54:57.310Z",
+      "source": "europe-retail"
+    },
+    "hayleymenzies.com": {
+      "checkedAt": "2026-05-31T10:54:57.542Z",
+      "source": "europe-retail"
+    },
+    "narscosmetics.co.uk": {
+      "checkedAt": "2026-05-31T10:54:58.555Z",
+      "source": "europe-retail"
+    },
+    "franchettibond.co.uk": {
+      "checkedAt": "2026-05-31T10:54:58.727Z",
+      "source": "europe-retail"
+    },
+    "bayley-sage.co.uk": {
+      "checkedAt": "2026-05-31T10:54:58.784Z",
+      "source": "europe-retail"
+    },
+    "nulondon.uk": {
+      "checkedAt": "2026-05-31T10:54:59.352Z",
+      "source": "europe-retail"
+    },
+    "greggs.co.uk": {
+      "checkedAt": "2026-05-31T10:55:00.447Z",
+      "source": "europe-retail"
+    },
+    "shiro-shiro.uk": {
+      "checkedAt": "2026-05-31T10:55:00.540Z",
+      "source": "europe-retail"
+    },
+    "stonepharmacy.co.uk": {
+      "checkedAt": "2026-05-31T10:55:00.608Z",
+      "source": "europe-retail"
+    },
+    "rixo.co.uk": {
+      "checkedAt": "2026-05-31T10:55:00.912Z",
+      "source": "europe-retail"
+    },
+    "kujten.com": {
+      "checkedAt": "2026-05-31T10:55:02.011Z",
+      "source": "europe-retail"
+    },
+    "essentiel-antwerp.com": {
+      "checkedAt": "2026-05-31T10:55:02.210Z",
+      "source": "europe-retail"
+    },
+    "chelseaeyecentre.co.uk": {
+      "checkedAt": "2026-05-31T10:55:02.461Z",
+      "source": "europe-retail"
+    },
+    "jimmyfairly.co.uk": {
+      "checkedAt": "2026-05-31T10:55:02.844Z",
+      "source": "europe-retail"
+    },
+    "feltlondon.com": {
+      "checkedAt": "2026-05-31T10:55:03.754Z",
+      "source": "europe-retail"
+    },
+    "giuseppezanotti.com": {
+      "checkedAt": "2026-05-31T10:55:03.858Z",
+      "source": "europe-retail"
+    },
+    "crombie.co.uk": {
+      "checkedAt": "2026-05-31T10:55:04.467Z",
+      "source": "europe-retail"
+    },
+    "fourlondon.com": {
+      "checkedAt": "2026-05-31T10:55:04.577Z",
+      "source": "europe-retail"
+    },
+    "hastens.com": {
+      "checkedAt": "2026-05-31T10:55:04.994Z",
+      "source": "europe-retail"
+    },
+    "orlebarbrown.com": {
+      "checkedAt": "2026-05-31T10:55:05.116Z",
+      "source": "europe-retail"
+    },
+    "margarethowell.co.uk": {
+      "checkedAt": "2026-05-31T10:55:05.390Z",
+      "source": "europe-retail"
+    },
+    "championstore.com": {
+      "checkedAt": "2026-05-31T10:55:06.317Z",
+      "source": "europe-retail"
+    },
+    "gooutdoors.co.uk": {
+      "checkedAt": "2026-05-31T10:55:06.640Z",
+      "source": "europe-retail"
+    },
+    "brora.co.uk": {
+      "checkedAt": "2026-05-31T10:55:06.924Z",
+      "source": "europe-retail"
+    },
+    "abrepojunction.co.uk": {
+      "checkedAt": "2026-05-31T10:55:07.539Z",
+      "source": "europe-retail"
+    },
+    "randox.com": {
+      "checkedAt": "2026-05-31T10:55:07.612Z",
+      "source": "europe-retail"
+    },
+    "turkish.co.uk": {
+      "checkedAt": "2026-05-31T10:55:07.919Z",
+      "source": "europe-retail"
+    },
+    "specsavers.co.uk": {
+      "checkedAt": "2026-05-31T10:55:08.024Z",
+      "source": "europe-retail"
+    },
+    "crazycut.co.uk": {
+      "checkedAt": "2026-05-31T10:55:08.662Z",
+      "source": "europe-retail"
+    },
+    "shop.parliament.uk": {
+      "checkedAt": "2026-05-31T10:55:08.696Z",
+      "source": "europe-retail"
+    },
+    "cyberdog.net": {
+      "checkedAt": "2026-05-31T10:55:08.768Z",
+      "source": "europe-retail"
+    },
+    "southbankart.co.uk": {
+      "checkedAt": "2026-05-31T10:55:08.898Z",
+      "source": "europe-retail"
+    },
+    "classicbeautylondon.co.uk": {
+      "checkedAt": "2026-05-31T10:55:09.228Z",
+      "source": "europe-retail"
+    },
+    "haygenshop.com": {
+      "checkedAt": "2026-05-31T10:55:09.714Z",
+      "source": "europe-retail"
+    },
+    "pharmacymayfair.co.uk": {
+      "checkedAt": "2026-05-31T10:55:09.733Z",
+      "source": "europe-retail"
+    },
+    "suttonandsons.co.uk": {
+      "checkedAt": "2026-05-31T10:55:10.249Z",
+      "source": "europe-retail"
+    },
+    "stokenewingtonbookshop.co.uk": {
+      "checkedAt": "2026-05-31T10:55:10.515Z",
+      "source": "europe-retail"
+    },
+    "algeriancoffeestores.com": {
+      "checkedAt": "2026-05-31T10:55:10.740Z",
+      "source": "europe-retail"
+    },
+    "oldpostofficebakery.com": {
+      "checkedAt": "2026-05-31T10:55:10.758Z",
+      "source": "europe-retail"
+    },
+    "quaker.org.uk": {
+      "checkedAt": "2026-05-31T10:55:10.760Z",
+      "source": "europe-retail"
+    },
+    "chislehurstpharmacy.co.uk": {
+      "checkedAt": "2026-05-31T10:55:11.070Z",
+      "source": "europe-retail"
+    },
+    "meltchocolates.com": {
+      "checkedAt": "2026-05-31T10:55:11.720Z",
+      "source": "europe-retail"
+    },
+    "sezane.com": {
+      "checkedAt": "2026-05-31T10:55:11.927Z",
+      "source": "europe-retail"
+    },
+    "bonton.fr": {
+      "checkedAt": "2026-05-31T10:55:12.077Z",
+      "source": "europe-retail"
+    },
+    "beatricevontresckow.com": {
+      "checkedAt": "2026-05-31T10:55:12.887Z",
+      "source": "europe-retail"
+    },
+    "beyondretro.com": {
+      "checkedAt": "2026-05-31T10:55:13.084Z",
+      "source": "europe-retail"
+    },
+    "chloealberry.com": {
+      "checkedAt": "2026-05-31T10:55:14.128Z",
+      "source": "europe-retail"
+    },
+    "cotswoldoutdoor.com": {
+      "checkedAt": "2026-05-31T10:55:14.174Z",
+      "source": "europe-retail"
+    },
+    "meandem.com": {
+      "checkedAt": "2026-05-31T10:55:14.433Z",
+      "source": "europe-retail"
+    },
+    "majestic.co.uk": {
+      "checkedAt": "2026-05-31T10:55:15.648Z",
+      "source": "europe-retail"
+    },
+    "hsamuel.co.uk": {
+      "checkedAt": "2026-05-31T10:55:15.888Z",
+      "source": "europe-retail"
+    },
+    "aveda.co.uk": {
+      "checkedAt": "2026-05-31T10:55:15.897Z",
+      "source": "europe-retail"
+    },
+    "armstrongandnorth.com": {
+      "checkedAt": "2026-05-31T10:55:16.180Z",
+      "source": "europe-retail"
+    },
+    "crazyhorsebikeworkshop.co.uk": {
+      "checkedAt": "2026-05-31T10:55:16.408Z",
+      "source": "europe-retail"
+    },
+    "eliasfish.co.uk": {
+      "checkedAt": "2026-05-31T10:55:16.999Z",
+      "source": "europe-retail"
+    },
+    "stores.arcteryx.com": {
+      "checkedAt": "2026-05-31T10:55:17.099Z",
+      "source": "europe-retail"
+    },
+    "stanleybridge.co.uk": {
+      "checkedAt": "2026-05-31T10:55:19.518Z",
+      "source": "europe-retail"
+    },
+    "sknfed.com": {
+      "checkedAt": "2026-05-31T10:55:19.875Z",
+      "source": "europe-retail"
+    },
+    "rlsupplies.co.uk": {
+      "checkedAt": "2026-05-31T10:55:19.973Z",
+      "source": "europe-retail"
+    },
+    "zadig-et-voltaire.com": {
+      "checkedAt": "2026-05-31T10:55:20.660Z",
+      "source": "europe-retail"
+    },
+    "carpetsofchelsea.com": {
+      "checkedAt": "2026-05-31T10:55:21.166Z",
+      "source": "europe-retail"
+    },
+    "halcyoninteriors.com": {
+      "checkedAt": "2026-05-31T10:55:21.218Z",
+      "source": "europe-retail"
+    },
+    "theofennell.com": {
+      "checkedAt": "2026-05-31T10:55:21.245Z",
+      "source": "europe-retail"
+    },
+    "atworkgallery.co.uk": {
+      "checkedAt": "2026-05-31T10:55:21.380Z",
+      "source": "europe-retail"
+    },
+    "springelectrical.com": {
+      "checkedAt": "2026-05-31T10:55:22.007Z",
+      "source": "europe-retail"
+    },
+    "questbikes.co.uk": {
+      "checkedAt": "2026-05-31T10:55:22.152Z",
+      "source": "europe-retail"
+    },
+    "theworks.co.uk": {
+      "checkedAt": "2026-05-31T10:55:23.924Z",
+      "source": "europe-retail"
+    },
+    "wolfordshop.co.uk": {
+      "checkedAt": "2026-05-31T10:55:24.392Z",
+      "source": "europe-retail"
+    },
+    "baseo.co.uk": {
+      "checkedAt": "2026-05-31T10:55:24.787Z",
+      "source": "europe-retail"
+    },
+    "cutterandsquidge.com": {
+      "checkedAt": "2026-05-31T10:55:25.596Z",
+      "source": "europe-retail"
+    },
+    "eye-emporium.com": {
+      "checkedAt": "2026-05-31T10:55:26.313Z",
+      "source": "europe-retail"
+    },
+    "thebakeryshop.co.uk": {
+      "checkedAt": "2026-05-31T10:55:26.661Z",
+      "source": "europe-retail"
+    },
+    "monicavinader.com": {
+      "checkedAt": "2026-05-31T10:55:26.934Z",
+      "source": "europe-retail"
+    },
+    "pinko.it": {
+      "checkedAt": "2026-05-31T10:55:27.014Z",
+      "source": "europe-retail"
+    },
+    "gerarddarel.com": {
+      "checkedAt": "2026-05-31T10:55:28.816Z",
+      "source": "europe-retail"
+    },
+    "sassoon.com": {
+      "checkedAt": "2026-05-31T10:55:29.460Z",
+      "source": "europe-retail"
+    },
+    "apm.mc": {
+      "checkedAt": "2026-05-31T10:55:29.614Z",
+      "source": "europe-retail"
+    },
+    "eastcentralbarberingco.com": {
+      "checkedAt": "2026-05-31T10:55:29.963Z",
+      "source": "europe-retail"
+    },
+    "jhootspharmacy.co.uk": {
+      "checkedAt": "2026-05-31T10:55:30.255Z",
+      "source": "europe-retail"
+    },
+    "coachhouse.com": {
+      "checkedAt": "2026-05-31T10:55:30.839Z",
+      "source": "europe-retail"
+    },
+    "maxwellskensington.com": {
+      "checkedAt": "2026-05-31T10:55:31.449Z",
+      "source": "europe-retail"
+    },
+    "cyclesuk.com": {
+      "checkedAt": "2026-05-31T10:55:31.902Z",
+      "source": "europe-retail"
+    },
+    "mnmhairandbeauty.com": {
+      "checkedAt": "2026-05-31T10:55:32.320Z",
+      "source": "europe-retail"
+    },
+    "storksen.co.uk": {
+      "checkedAt": "2026-05-31T10:55:32.391Z",
+      "source": "europe-retail"
+    },
+    "hodgsonpharmacy.com": {
+      "checkedAt": "2026-05-31T10:55:33.317Z",
+      "source": "europe-retail"
+    },
+    "opticalexpress.co.uk": {
+      "checkedAt": "2026-05-31T10:55:33.632Z",
+      "source": "europe-retail"
+    },
+    "rituals.com": {
+      "checkedAt": "2026-05-31T10:55:35.079Z",
+      "source": "europe-retail"
+    },
+    "hopscotchessentials.co.uk": {
+      "checkedAt": "2026-05-31T10:55:35.602Z",
+      "source": "europe-retail"
+    },
+    "sii-shells.co.uk": {
+      "checkedAt": "2026-05-31T10:55:37.850Z",
+      "source": "europe-retail"
+    },
+    "eyesite.co.uk": {
+      "checkedAt": "2026-05-31T10:55:38.059Z",
+      "source": "europe-retail"
+    },
+    "whw.co.uk": {
+      "checkedAt": "2026-05-31T10:55:38.883Z",
+      "source": "europe-retail"
+    },
+    "blackwells.co.uk": {
+      "checkedAt": "2026-05-31T10:55:39.128Z",
+      "source": "europe-retail"
+    },
+    "bmstores.co.uk": {
+      "checkedAt": "2026-05-31T10:55:39.356Z",
+      "source": "europe-retail"
+    },
+    "kioskafe.com": {
+      "checkedAt": "2026-05-31T10:55:40.593Z",
+      "source": "europe-retail"
+    },
+    "breadahead.com": {
+      "checkedAt": "2026-05-31T10:55:42.269Z",
+      "source": "europe-retail"
+    },
+    "benscookies.com": {
+      "checkedAt": "2026-05-31T10:55:42.451Z",
+      "source": "europe-retail"
+    },
+    "moxonsfreshfish.com": {
+      "checkedAt": "2026-05-31T10:55:44.198Z",
+      "source": "europe-retail"
+    },
+    "jonesbootmaker.com": {
+      "checkedAt": "2026-05-31T10:55:45.155Z",
+      "source": "europe-retail"
+    },
+    "michaelrose.com": {
+      "checkedAt": "2026-05-31T10:55:46.395Z",
+      "source": "europe-retail"
+    },
+    "viandas.shop": {
+      "checkedAt": "2026-05-31T10:55:46.568Z",
+      "source": "europe-retail"
+    },
+    "eresparis.com": {
+      "checkedAt": "2026-05-31T10:55:47.826Z",
+      "source": "europe-retail"
+    },
+    "august-bakery.com": {
+      "checkedAt": "2026-05-31T10:55:47.929Z",
+      "source": "europe-retail"
+    },
+    "permanentbeauty.london": {
+      "checkedAt": "2026-05-31T10:55:49.401Z",
+      "source": "europe-retail"
+    },
+    "harveyjones.com": {
+      "checkedAt": "2026-05-31T10:55:49.619Z",
+      "source": "europe-retail"
+    },
+    "susannahlovis.com": {
+      "checkedAt": "2026-05-31T10:55:50.789Z",
+      "source": "europe-retail"
+    },
+    "unihealthcare.co.uk": {
+      "checkedAt": "2026-05-31T10:55:50.936Z",
+      "source": "europe-retail"
+    },
+    "tailormadelondon.com": {
+      "checkedAt": "2026-05-31T10:55:51.269Z",
+      "source": "europe-retail"
+    },
+    "allenspharmacy.co.uk": {
+      "checkedAt": "2026-05-31T10:55:51.843Z",
+      "source": "europe-retail"
+    },
+    "oceanpharmacy.co.uk": {
+      "checkedAt": "2026-05-31T10:55:52.905Z",
+      "source": "europe-retail"
+    },
+    "boconcept.com": {
+      "checkedAt": "2026-05-31T10:55:53.611Z",
+      "source": "europe-retail"
+    },
+    "orhanlondontailoring.com": {
+      "checkedAt": "2026-05-31T10:55:54.396Z",
+      "source": "europe-retail"
+    },
+    "carpet-right.co.uk": {
+      "checkedAt": "2026-05-31T10:55:54.495Z",
+      "source": "europe-retail"
+    },
+    "hypoxiwls.co.uk": {
+      "checkedAt": "2026-05-31T10:55:54.958Z",
+      "source": "europe-retail"
+    },
+    "hewsonbooks.co.uk": {
+      "checkedAt": "2026-05-31T10:55:55.480Z",
+      "source": "europe-retail"
+    },
+    "woodfordaquatics.co.uk": {
+      "checkedAt": "2026-05-31T10:55:55.823Z",
+      "source": "europe-retail"
+    },
+    "allurenails.co.uk": {
+      "checkedAt": "2026-05-31T10:55:56.010Z",
+      "source": "europe-retail"
+    },
+    "creativequilting.co.uk": {
+      "checkedAt": "2026-05-31T10:55:56.285Z",
+      "source": "europe-retail"
+    },
+    "hackney-cycles.co.uk": {
+      "checkedAt": "2026-05-31T10:55:57.611Z",
+      "source": "europe-retail"
+    },
+    "thewhitecompany.com": {
+      "checkedAt": "2026-05-31T10:55:57.645Z",
+      "source": "europe-retail"
+    },
+    "uk.burberry.com": {
+      "checkedAt": "2026-05-31T10:55:58.254Z",
+      "source": "europe-retail"
+    },
+    "phase-eight.com": {
+      "checkedAt": "2026-05-31T10:55:58.628Z",
+      "source": "europe-retail"
+    },
+    "gorjbluewater.co.uk": {
+      "checkedAt": "2026-05-31T10:55:58.684Z",
+      "source": "europe-retail"
+    },
+    "dunelondon.com": {
+      "checkedAt": "2026-05-31T10:55:58.858Z",
+      "source": "europe-retail"
+    },
+    "bespokeandtailoring.com": {
+      "checkedAt": "2026-05-31T10:55:58.869Z",
+      "source": "europe-retail"
+    },
+    "jomalone.co.uk": {
+      "checkedAt": "2026-05-31T10:55:59.567Z",
+      "source": "europe-retail"
+    },
+    "bagelfactory.co.uk": {
+      "checkedAt": "2026-05-31T10:55:59.747Z",
+      "source": "europe-retail"
+    },
+    "thegingerpig.co.uk": {
+      "checkedAt": "2026-05-31T10:55:59.883Z",
+      "source": "europe-retail"
+    },
+    "joythestore.com": {
+      "checkedAt": "2026-05-31T10:56:00.837Z",
+      "source": "europe-retail"
+    },
+    "nigelraymentboutique.co.uk": {
+      "checkedAt": "2026-05-31T10:56:00.972Z",
+      "source": "europe-retail"
+    },
+    "shefabeautylounge.co.uk": {
+      "checkedAt": "2026-05-31T10:56:02.108Z",
+      "source": "europe-retail"
+    },
+    "casefurniture.co.uk": {
+      "checkedAt": "2026-05-31T10:56:02.882Z",
+      "source": "europe-retail"
+    },
+    "great4hair.com": {
+      "checkedAt": "2026-05-31T10:56:03.084Z",
+      "source": "europe-retail"
+    },
+    "sam99p.co.uk": {
+      "checkedAt": "2026-05-31T10:56:04.803Z",
+      "source": "europe-retail"
+    },
+    "peacocks.co.uk": {
+      "checkedAt": "2026-05-31T10:56:05.687Z",
+      "source": "europe-retail"
+    },
+    "hallmark.co.uk": {
+      "checkedAt": "2026-05-31T10:56:06.446Z",
+      "source": "europe-retail"
+    },
+    "shenolhair.com": {
+      "checkedAt": "2026-05-31T10:56:07.695Z",
+      "source": "europe-retail"
+    },
+    "beatlesstorelondon.co.uk": {
+      "checkedAt": "2026-05-31T10:56:07.746Z",
+      "source": "europe-retail"
+    },
+    "point5kitchens.co.uk": {
+      "checkedAt": "2026-05-31T10:56:08.170Z",
+      "source": "europe-retail"
+    },
+    "tracksmith.com": {
+      "checkedAt": "2026-05-31T10:56:09.149Z",
+      "source": "europe-retail"
+    },
+    "sunspel.com": {
+      "checkedAt": "2026-05-31T10:56:09.835Z",
+      "source": "europe-retail"
+    },
+    "woodfordcyclecentre.co.uk": {
+      "checkedAt": "2026-05-31T10:56:10.832Z",
+      "source": "europe-retail"
+    },
+    "medicigallery.co.uk": {
+      "checkedAt": "2026-05-31T10:56:10.865Z",
+      "source": "europe-retail"
+    },
+    "rockshop.hardrock.com": {
+      "checkedAt": "2026-05-31T10:56:11.522Z",
+      "source": "europe-retail"
+    },
+    "neilswheelsshop.co.uk": {
+      "checkedAt": "2026-05-31T10:56:11.545Z",
+      "source": "europe-retail"
+    },
+    "sarrattofficesupplies.co.uk": {
+      "checkedAt": "2026-05-31T10:56:12.198Z",
+      "source": "europe-retail"
+    },
+    "olympicbathrooms.co.uk": {
+      "checkedAt": "2026-05-31T10:56:12.295Z",
+      "source": "europe-retail"
+    },
+    "sallymetharry.com": {
+      "checkedAt": "2026-05-31T10:56:12.645Z",
+      "source": "europe-retail"
+    },
+    "familyeyecare.co.uk": {
+      "checkedAt": "2026-05-31T10:56:12.824Z",
+      "source": "europe-retail"
+    },
+    "fudgescyclestore.com": {
+      "checkedAt": "2026-05-31T10:56:13.435Z",
+      "source": "europe-retail"
+    },
+    "londongreencycles.co.uk": {
+      "checkedAt": "2026-05-31T10:56:14.403Z",
+      "source": "europe-retail"
+    },
+    "flokk.com": {
+      "checkedAt": "2026-05-31T10:56:14.424Z",
+      "source": "europe-retail"
+    },
+    "clarks.com": {
+      "checkedAt": "2026-05-31T10:56:15.348Z",
+      "source": "europe-retail"
+    },
+    "theroyalexchange.co.uk": {
+      "checkedAt": "2026-05-31T10:56:16.208Z",
+      "source": "europe-retail"
+    },
+    "drdavidjack.com": {
+      "checkedAt": "2026-05-31T10:56:16.583Z",
+      "source": "europe-retail"
+    },
+    "e5bakehouse.com": {
+      "checkedAt": "2026-05-31T10:56:18.365Z",
+      "source": "europe-retail"
+    },
+    "sweatybetty.com": {
+      "checkedAt": "2026-05-31T10:56:18.945Z",
+      "source": "europe-retail"
+    },
+    "jonesofbrockley.com": {
+      "checkedAt": "2026-05-31T10:56:19.398Z",
+      "source": "europe-retail"
+    },
+    "percyandreed.com": {
+      "checkedAt": "2026-05-31T10:56:19.464Z",
+      "source": "europe-retail"
+    },
+    "inanch.com": {
+      "checkedAt": "2026-05-31T10:56:20.884Z",
+      "source": "europe-retail"
+    },
+    "kensingtonbarbers.com": {
+      "checkedAt": "2026-05-31T10:56:21.051Z",
+      "source": "europe-retail"
+    },
+    "lairdlondon.co.uk": {
+      "checkedAt": "2026-05-31T10:56:21.357Z",
+      "source": "europe-retail"
+    },
+    "odabash.com": {
+      "checkedAt": "2026-05-31T10:56:21.831Z",
+      "source": "europe-retail"
+    },
+    "carhartt-wip.com": {
+      "checkedAt": "2026-05-31T10:56:22.224Z",
+      "source": "europe-retail"
+    },
+    "costcutter.co.uk": {
+      "checkedAt": "2026-05-31T10:56:22.353Z",
+      "source": "europe-retail"
+    },
+    "bikeworks.org.uk": {
+      "checkedAt": "2026-05-31T10:56:22.471Z",
+      "source": "europe-retail"
+    },
+    "skoob.com": {
+      "checkedAt": "2026-05-31T10:56:22.669Z",
+      "source": "europe-retail"
+    },
+    "thetopssalon.com": {
+      "checkedAt": "2026-05-31T10:56:22.691Z",
+      "source": "europe-retail"
+    },
+    "beshirts.co.uk": {
+      "checkedAt": "2026-05-31T10:56:23.536Z",
+      "source": "europe-retail"
+    },
+    "brfencingsonworcesterpark.co.uk": {
+      "checkedAt": "2026-05-31T10:56:23.616Z",
+      "source": "europe-retail"
+    },
+    "maharishistore.com": {
+      "checkedAt": "2026-05-31T10:56:23.827Z",
+      "source": "europe-retail"
+    },
+    "wiltons.co.uk": {
+      "checkedAt": "2026-05-31T10:56:24.083Z",
+      "source": "europe-retail"
+    },
+    "asquithsoflondon.co.uk": {
+      "checkedAt": "2026-05-31T10:56:24.763Z",
+      "source": "europe-retail"
+    },
+    "ysl.com": {
+      "checkedAt": "2026-05-31T10:56:25.481Z",
+      "source": "europe-retail"
+    },
+    "daks.co.uk": {
+      "checkedAt": "2026-05-31T10:56:25.484Z",
+      "source": "europe-retail"
+    },
+    "suitsupply.com": {
+      "checkedAt": "2026-05-31T10:56:26.051Z",
+      "source": "europe-retail"
+    },
+    "uk.flyingtiger.com": {
+      "checkedAt": "2026-05-31T10:56:26.071Z",
+      "source": "europe-retail"
+    },
+    "alexandermcqueen.com": {
+      "checkedAt": "2026-05-31T10:56:27.322Z",
+      "source": "europe-retail"
+    },
+    "edwardjameslondon.com": {
+      "checkedAt": "2026-05-31T10:56:27.608Z",
+      "source": "europe-retail"
+    },
+    "chatila.com": {
+      "checkedAt": "2026-05-31T10:56:27.899Z",
+      "source": "europe-retail"
+    },
+    "ottertrading.co.uk": {
+      "checkedAt": "2026-05-31T10:56:27.913Z",
+      "source": "europe-retail"
+    },
+    "minthairlondon.com": {
+      "checkedAt": "2026-05-31T10:56:28.500Z",
+      "source": "europe-retail"
+    },
+    "drpeel.co.uk": {
+      "checkedAt": "2026-05-31T10:56:28.610Z",
+      "source": "europe-retail"
+    },
+    "laperla.com": {
+      "checkedAt": "2026-05-31T10:56:28.724Z",
+      "source": "europe-retail"
+    },
+    "trotters.co.uk": {
+      "checkedAt": "2026-05-31T10:56:30.076Z",
+      "source": "europe-retail"
+    },
+    "tlc-direct.co.uk": {
+      "checkedAt": "2026-05-31T10:56:30.342Z",
+      "source": "europe-retail"
+    },
+    "passionevino.co.uk": {
+      "checkedAt": "2026-05-31T10:56:30.443Z",
+      "source": "europe-retail"
+    },
+    "tps.trade": {
+      "checkedAt": "2026-05-31T10:56:31.234Z",
+      "source": "europe-retail"
+    },
+    "boltandbearing.co.uk": {
+      "checkedAt": "2026-05-31T10:56:31.235Z",
+      "source": "europe-retail"
+    },
+    "palava.co": {
+      "checkedAt": "2026-05-31T10:56:31.403Z",
+      "source": "europe-retail"
+    },
+    "ahspittleelectrical.co.uk": {
+      "checkedAt": "2026-05-31T10:56:32.631Z",
+      "source": "europe-retail"
+    },
+    "hatchards.co.uk": {
+      "checkedAt": "2026-05-31T10:56:32.649Z",
+      "source": "europe-retail"
+    },
+    "cityplumbing.co.uk": {
+      "checkedAt": "2026-05-31T10:56:32.685Z",
+      "source": "europe-retail"
+    },
+    "tomasbak.com": {
+      "checkedAt": "2026-05-31T10:56:32.909Z",
+      "source": "europe-retail"
+    },
+    "uniaopticians.co.uk": {
+      "checkedAt": "2026-05-31T10:56:33.880Z",
+      "source": "europe-retail"
+    },
+    "wearetrinity.org.uk": {
+      "checkedAt": "2026-05-31T10:56:33.966Z",
+      "source": "europe-retail"
+    },
+    "accessgaragedoors.com": {
+      "checkedAt": "2026-05-31T10:56:34.216Z",
+      "source": "europe-retail"
+    },
+    "aubade.com": {
+      "checkedAt": "2026-05-31T10:56:34.447Z",
+      "source": "europe-retail"
+    },
+    "albertaferretti.com": {
+      "checkedAt": "2026-05-31T10:56:35.122Z",
+      "source": "europe-retail"
+    },
+    "carolinecastigliano.com": {
+      "checkedAt": "2026-05-31T10:56:36.138Z",
+      "source": "europe-retail"
+    },
+    "cutlerandgross.com": {
+      "checkedAt": "2026-05-31T10:56:36.196Z",
+      "source": "europe-retail"
+    },
+    "yokolondon.com": {
+      "checkedAt": "2026-05-31T10:56:36.287Z",
+      "source": "europe-retail"
+    },
+    "hayattpharmacy.com": {
+      "checkedAt": "2026-05-31T10:56:36.976Z",
+      "source": "europe-retail"
+    },
+    "jitrois.com": {
+      "checkedAt": "2026-05-31T10:56:37.836Z",
+      "source": "europe-retail"
+    },
+    "nomination.com": {
+      "checkedAt": "2026-05-31T10:56:38.713Z",
+      "source": "europe-retail"
+    },
+    "luxurylivinggroup.com": {
+      "checkedAt": "2026-05-31T10:56:39.136Z",
+      "source": "europe-retail"
+    },
+    "pauledmonds.com": {
+      "checkedAt": "2026-05-31T10:56:39.312Z",
+      "source": "europe-retail"
+    },
+    "aloyoga.com": {
+      "checkedAt": "2026-05-31T10:56:40.683Z",
+      "source": "europe-retail"
+    },
+    "store.ferragamo.com": {
+      "checkedAt": "2026-05-31T10:56:40.788Z",
+      "source": "europe-retail"
+    },
+    "saks.co.uk": {
+      "checkedAt": "2026-05-31T10:56:40.999Z",
+      "source": "europe-retail"
+    },
+    "omniya.co.uk": {
+      "checkedAt": "2026-05-31T10:56:41.028Z",
+      "source": "europe-retail"
+    },
+    "dattyres.co.uk": {
+      "checkedAt": "2026-05-31T10:56:41.800Z",
+      "source": "europe-retail"
+    },
+    "teamworkhair.co.uk": {
+      "checkedAt": "2026-05-31T10:56:42.464Z",
+      "source": "europe-retail"
+    },
+    "nevillehairandbeauty.net": {
+      "checkedAt": "2026-05-31T10:56:42.633Z",
+      "source": "europe-retail"
+    },
+    "sorenfaber.com": {
+      "checkedAt": "2026-05-31T10:56:42.896Z",
+      "source": "europe-retail"
+    },
+    "carluccihairdressing.co.uk": {
+      "checkedAt": "2026-05-31T10:56:44.111Z",
+      "source": "europe-retail"
+    },
+    "dinosaurdesigns.com": {
+      "checkedAt": "2026-05-31T10:56:44.783Z",
+      "source": "europe-retail"
+    },
+    "newcavendishjewellers.com": {
+      "checkedAt": "2026-05-31T10:56:45.511Z",
+      "source": "europe-retail"
+    },
+    "ams-opticians.co.uk": {
+      "checkedAt": "2026-05-31T10:56:46.491Z",
+      "source": "europe-retail"
+    },
+    "abishairspa.co.uk": {
+      "checkedAt": "2026-05-31T10:56:48.133Z",
+      "source": "europe-retail"
+    },
+    "khcf.co.uk": {
+      "checkedAt": "2026-05-31T10:56:49.937Z",
+      "source": "europe-retail"
+    },
+    "imagecarpets.co.uk": {
+      "checkedAt": "2026-05-31T10:56:50.561Z",
+      "source": "europe-retail"
+    },
+    "anupamjewellers.co.uk": {
+      "checkedAt": "2026-05-31T10:56:51.062Z",
+      "source": "europe-retail"
+    },
+    "countycarpetsashford.co.uk": {
+      "checkedAt": "2026-05-31T10:56:52.351Z",
+      "source": "europe-retail"
+    },
+    "waltonmeats.co.uk": {
+      "checkedAt": "2026-05-31T10:56:52.858Z",
+      "source": "europe-retail"
+    },
+    "mowerpro.co.uk": {
+      "checkedAt": "2026-05-31T10:56:53.666Z",
+      "source": "europe-retail"
+    },
+    "imprintpromotions.co.uk": {
+      "checkedAt": "2026-05-31T10:56:53.882Z",
+      "source": "europe-retail"
+    },
+    "allgreens.co.uk": {
+      "checkedAt": "2026-05-31T10:56:54.330Z",
+      "source": "europe-retail"
+    },
+    "strukta.co.uk": {
+      "checkedAt": "2026-05-31T10:56:54.544Z",
+      "source": "europe-retail"
+    },
+    "moscot.com": {
+      "checkedAt": "2026-05-31T10:56:56.552Z",
+      "source": "europe-retail"
+    },
+    "parsonsnose.co.uk": {
+      "checkedAt": "2026-05-31T10:56:57.285Z",
+      "source": "europe-retail"
+    },
+    "gudrunsjoden.com": {
+      "checkedAt": "2026-05-31T10:56:58.580Z",
+      "source": "europe-retail"
+    },
+    "experimentalperfumeclub.com": {
+      "checkedAt": "2026-05-31T10:57:00.028Z",
+      "source": "europe-retail"
+    },
+    "screenface.co.uk": {
+      "checkedAt": "2026-05-31T10:57:01.595Z",
+      "source": "europe-retail"
+    },
+    "redhedlondon.co.uk": {
+      "checkedAt": "2026-05-31T10:57:02.002Z",
+      "source": "europe-retail"
+    },
+    "eyreandelliston.co.uk": {
+      "checkedAt": "2026-05-31T10:57:03.234Z",
+      "source": "europe-retail"
+    },
+    "acnestudios.com": {
+      "checkedAt": "2026-05-31T10:57:03.528Z",
+      "source": "europe-retail"
+    },
+    "natural-meats.co.uk": {
+      "checkedAt": "2026-05-31T10:57:04.578Z",
+      "source": "europe-retail"
+    },
+    "urbanflower.co": {
+      "checkedAt": "2026-05-31T10:57:04.584Z",
+      "source": "europe-retail"
+    },
+    "schooluniformdirect.co.uk": {
+      "checkedAt": "2026-05-31T10:57:04.759Z",
+      "source": "europe-retail"
+    },
+    "headmasters.com": {
+      "checkedAt": "2026-05-31T10:57:05.055Z",
+      "source": "europe-retail"
+    },
+    "thecarpetstore.info": {
+      "checkedAt": "2026-05-31T10:57:05.808Z",
+      "source": "europe-retail"
+    },
+    "arraystore.co.uk": {
+      "checkedAt": "2026-05-31T10:57:06.178Z",
+      "source": "europe-retail"
+    },
+    "pcnest.co.uk": {
+      "checkedAt": "2026-05-31T10:57:06.292Z",
+      "source": "europe-retail"
+    },
+    "splendidtrading.co.uk": {
+      "checkedAt": "2026-05-31T10:57:07.240Z",
+      "source": "europe-retail"
+    },
+    "londonbarbersclub.com": {
+      "checkedAt": "2026-05-31T10:57:07.424Z",
+      "source": "europe-retail"
+    },
+    "fishmongerskitchen.co.uk": {
+      "checkedAt": "2026-05-31T10:57:07.454Z",
+      "source": "europe-retail"
+    },
+    "bhwaterjewels.com": {
+      "checkedAt": "2026-05-31T10:57:08.345Z",
+      "source": "europe-retail"
+    },
+    "hornetskensington.co.uk": {
+      "checkedAt": "2026-05-31T10:57:08.537Z",
+      "source": "europe-retail"
+    },
+    "chambersbespoketailors.co.uk": {
+      "checkedAt": "2026-05-31T10:57:08.624Z",
+      "source": "europe-retail"
+    },
+    "goldsmiths.co.uk": {
+      "checkedAt": "2026-05-31T10:57:09.211Z",
+      "source": "europe-retail"
+    },
+    "top-butcher.co.uk": {
+      "checkedAt": "2026-05-31T10:57:09.346Z",
+      "source": "europe-retail"
+    },
+    "loveblooms.co.uk": {
+      "checkedAt": "2026-05-31T10:57:09.441Z",
+      "source": "europe-retail"
+    },
+    "pshahopticians.co.uk": {
+      "checkedAt": "2026-05-31T10:57:09.805Z",
+      "source": "europe-retail"
+    },
+    "heavertropics.co.uk": {
+      "checkedAt": "2026-05-31T10:57:10.274Z",
+      "source": "europe-retail"
+    },
+    "godfreys.co": {
+      "checkedAt": "2026-05-31T10:57:10.505Z",
+      "source": "europe-retail"
+    },
+    "apple.com": {
+      "checkedAt": "2026-05-31T10:57:11.065Z",
+      "source": "europe-retail"
+    },
+    "gazianogirling.com": {
+      "checkedAt": "2026-05-31T10:57:11.637Z",
+      "source": "europe-retail"
+    },
+    "apsleytailors.com": {
+      "checkedAt": "2026-05-31T10:57:11.737Z",
+      "source": "europe-retail"
+    },
+    "doppiocoffee.co.uk": {
+      "checkedAt": "2026-05-31T10:57:11.896Z",
+      "source": "europe-retail"
+    },
+    "assmann.co.uk": {
+      "checkedAt": "2026-05-31T10:57:12.658Z",
+      "source": "europe-retail"
+    },
+    "thegrow.studio": {
+      "checkedAt": "2026-05-31T10:57:13.909Z",
+      "source": "europe-retail"
+    },
+    "casa-pergola.com": {
+      "checkedAt": "2026-05-31T10:57:13.915Z",
+      "source": "europe-retail"
+    },
+    "topdoggrooming.co.uk": {
+      "checkedAt": "2026-05-31T10:57:14.191Z",
+      "source": "europe-retail"
+    },
+    "rinkoffbakery.co.uk": {
+      "checkedAt": "2026-05-31T10:57:15.237Z",
+      "source": "europe-retail"
+    },
+    "pennyburdett.co.uk": {
+      "checkedAt": "2026-05-31T10:57:15.351Z",
+      "source": "europe-retail"
+    },
+    "foamcushions.co.uk": {
+      "checkedAt": "2026-05-31T10:57:15.844Z",
+      "source": "europe-retail"
+    },
+    "goodandpropertea.com": {
+      "checkedAt": "2026-05-31T10:57:16.233Z",
+      "source": "europe-retail"
+    },
+    "crumbsanddoilies.co.uk": {
+      "checkedAt": "2026-05-31T10:57:16.590Z",
+      "source": "europe-retail"
+    },
+    "nativeandco.com": {
+      "checkedAt": "2026-05-31T10:57:16.827Z",
+      "source": "europe-retail"
+    },
+    "serenity-nailsandbeauty.com": {
+      "checkedAt": "2026-05-31T10:57:17.837Z",
+      "source": "europe-retail"
+    },
+    "cubadirecto.com": {
+      "checkedAt": "2026-05-31T10:57:17.893Z",
+      "source": "europe-retail"
+    },
+    "simplicitysurbiton.co.uk": {
+      "checkedAt": "2026-05-31T10:57:18.269Z",
+      "source": "europe-retail"
+    },
+    "luxecasa.co.uk": {
+      "checkedAt": "2026-05-31T10:57:18.312Z",
+      "source": "europe-retail"
+    },
+    "tribu.co.uk": {
+      "checkedAt": "2026-05-31T10:57:19.454Z",
+      "source": "europe-retail"
+    },
+    "oddballs.co.uk": {
+      "checkedAt": "2026-05-31T10:57:19.686Z",
+      "source": "europe-retail"
+    },
+    "tiltmakeup.com": {
+      "checkedAt": "2026-05-31T10:57:20.994Z",
+      "source": "europe-retail"
+    },
+    "pickett.co.uk": {
+      "checkedAt": "2026-05-31T10:57:21.139Z",
+      "source": "europe-retail"
+    },
+    "happysocks.com": {
+      "checkedAt": "2026-05-31T10:57:21.265Z",
+      "source": "europe-retail"
+    },
+    "goodhoodstore.com": {
+      "checkedAt": "2026-05-31T10:57:21.502Z",
+      "source": "europe-retail"
+    },
+    "blue17.co.uk": {
+      "checkedAt": "2026-05-31T10:57:22.167Z",
+      "source": "europe-retail"
+    },
+    "silvermans.co.uk": {
+      "checkedAt": "2026-05-31T10:57:22.597Z",
+      "source": "europe-retail"
+    },
+    "matalan.co.uk": {
+      "checkedAt": "2026-05-31T10:57:22.701Z",
+      "source": "europe-retail"
+    },
+    "lego.co.uk": {
+      "checkedAt": "2026-05-31T10:57:22.908Z",
+      "source": "europe-retail"
+    },
+    "images-beauty.co.uk": {
+      "checkedAt": "2026-05-31T10:57:23.401Z",
+      "source": "europe-retail"
+    },
+    "trudes.co.uk": {
+      "checkedAt": "2026-05-31T10:57:23.755Z",
+      "source": "europe-retail"
+    },
+    "thebrokedownpalace.com": {
+      "checkedAt": "2026-05-31T10:57:23.851Z",
+      "source": "europe-retail"
+    },
+    "thecavanbakery.co.uk": {
+      "checkedAt": "2026-05-31T10:57:23.992Z",
+      "source": "europe-retail"
+    },
+    "tdtomdavies.com": {
+      "checkedAt": "2026-05-31T10:57:23.999Z",
+      "source": "europe-retail"
+    },
+    "nyumbasalon.com": {
+      "checkedAt": "2026-05-31T10:57:24.838Z",
+      "source": "europe-retail"
+    },
+    "bayfieldsopticians.com": {
+      "checkedAt": "2026-05-31T10:57:24.936Z",
+      "source": "europe-retail"
+    },
+    "racerrosabicycles.co.uk": {
+      "checkedAt": "2026-05-31T10:57:25.716Z",
+      "source": "europe-retail"
+    },
+    "newbiestore.com": {
+      "checkedAt": "2026-05-31T10:57:26.471Z",
+      "source": "europe-retail"
+    },
+    "sotherans.co.uk": {
+      "checkedAt": "2026-05-31T10:57:27.156Z",
+      "source": "europe-retail"
+    },
+    "delta-bakery.com": {
+      "checkedAt": "2026-05-31T10:57:27.319Z",
+      "source": "europe-retail"
+    },
+    "monicatolan.com": {
+      "checkedAt": "2026-05-31T10:57:27.703Z",
+      "source": "europe-retail"
+    },
+    "trottersjewellers.com": {
+      "checkedAt": "2026-05-31T10:57:28.973Z",
+      "source": "europe-retail"
+    },
+    "stanley-ley.co.uk": {
+      "checkedAt": "2026-05-31T10:57:29.064Z",
+      "source": "europe-retail"
+    },
+    "betonbrut.co.uk": {
+      "checkedAt": "2026-05-31T10:57:29.327Z",
+      "source": "europe-retail"
+    },
+    "leaping-lizards.co.uk": {
+      "checkedAt": "2026-05-31T10:57:30.476Z",
+      "source": "europe-retail"
+    },
+    "mypchub.co.uk": {
+      "checkedAt": "2026-05-31T10:57:31.377Z",
+      "source": "europe-retail"
+    },
+    "monstersupplies.org": {
+      "checkedAt": "2026-05-31T10:57:35.641Z",
+      "source": "europe-retail"
+    },
+    "millieslounge.co.uk": {
+      "checkedAt": "2026-05-31T10:57:36.879Z",
+      "source": "europe-retail"
+    },
+    "neptune.com": {
+      "checkedAt": "2026-05-31T10:57:37.292Z",
+      "source": "europe-retail"
+    },
+    "ceciliaswinehouse.com": {
+      "checkedAt": "2026-05-31T10:57:37.878Z",
+      "source": "europe-retail"
+    },
+    "penelopechilvers.com": {
+      "checkedAt": "2026-05-31T10:57:38.598Z",
+      "source": "europe-retail"
+    },
+    "artatailoring.co.uk": {
+      "checkedAt": "2026-05-31T10:57:38.716Z",
+      "source": "europe-retail"
+    },
+    "ortigiasicilia.com": {
+      "checkedAt": "2026-05-31T10:57:40.496Z",
+      "source": "europe-retail"
+    },
+    "lutyensrubinstein.co.uk": {
+      "checkedAt": "2026-05-31T10:57:40.761Z",
+      "source": "europe-retail"
+    },
+    "panoptica.co.uk": {
+      "checkedAt": "2026-05-31T10:57:41.018Z",
+      "source": "europe-retail"
+    },
+    "magicvision.eu": {
+      "checkedAt": "2026-05-31T10:57:42.134Z",
+      "source": "europe-retail"
+    },
+    "zoeandmorgan.com": {
+      "checkedAt": "2026-05-31T10:57:42.288Z",
+      "source": "europe-retail"
+    },
+    "flowersinc.co.uk": {
+      "checkedAt": "2026-05-31T10:57:42.669Z",
+      "source": "europe-retail"
+    },
+    "eyeworkslondon.com": {
+      "checkedAt": "2026-05-31T10:57:43.072Z",
+      "source": "europe-retail"
+    },
+    "angelhairatelier.com": {
+      "checkedAt": "2026-05-31T10:57:43.274Z",
+      "source": "europe-retail"
+    },
+    "hollywoodstarnailswestnorwood.co.uk": {
+      "checkedAt": "2026-05-31T10:57:43.276Z",
+      "source": "europe-retail"
+    },
+    "dunns-bakery.co.uk": {
+      "checkedAt": "2026-05-31T10:57:43.634Z",
+      "source": "europe-retail"
+    },
+    "aylwardsofcrewshill.co.uk": {
+      "checkedAt": "2026-05-31T10:57:44.104Z",
+      "source": "europe-retail"
+    },
+    "craigmorrisbarbers.com": {
+      "checkedAt": "2026-05-31T10:57:44.746Z",
+      "source": "europe-retail"
+    },
+    "observatory.co.uk": {
+      "checkedAt": "2026-05-31T10:57:44.931Z",
+      "source": "europe-retail"
+    },
+    "hdhairreplacement.co.uk": {
+      "checkedAt": "2026-05-31T10:57:45.275Z",
+      "source": "europe-retail"
+    },
+    "ecobatbattery.com": {
+      "checkedAt": "2026-05-31T10:57:45.641Z",
+      "source": "europe-retail"
+    },
+    "rmwilliams.com.au": {
+      "checkedAt": "2026-05-31T10:57:45.931Z",
+      "source": "europe-retail"
+    },
+    "mayfieldlavender.com": {
+      "checkedAt": "2026-05-31T10:57:46.050Z",
+      "source": "europe-retail"
+    },
+    "cheapivecoparts.com": {
+      "checkedAt": "2026-05-31T10:57:46.625Z",
+      "source": "europe-retail"
+    },
+    "starbucks.com": {
+      "checkedAt": "2026-05-31T10:57:46.679Z",
+      "source": "europe-retail"
+    },
+    "thekingstonpharmacy.com": {
+      "checkedAt": "2026-05-31T10:57:47.101Z",
+      "source": "europe-retail"
+    },
+    "perledebeaute.co.uk": {
+      "checkedAt": "2026-05-31T10:57:47.778Z",
+      "source": "europe-retail"
+    },
+    "southessex.ac.uk": {
+      "checkedAt": "2026-05-31T10:57:47.947Z",
+      "source": "europe-retail"
+    },
+    "machine-a.com": {
+      "checkedAt": "2026-05-31T10:57:48.854Z",
+      "source": "europe-retail"
+    },
+    "kwik-fit.com": {
+      "checkedAt": "2026-05-31T10:57:49.077Z",
+      "source": "europe-retail"
+    },
+    "lumifashiondesign.uk": {
+      "checkedAt": "2026-05-31T10:57:49.878Z",
+      "source": "europe-retail"
+    },
+    "bladesbarber.co.uk": {
+      "checkedAt": "2026-05-31T10:57:49.962Z",
+      "source": "europe-retail"
+    },
+    "mycupoftea.co.uk": {
+      "checkedAt": "2026-05-31T10:57:50.837Z",
+      "source": "europe-retail"
+    },
+    "anabelachan.com": {
+      "checkedAt": "2026-05-31T10:57:52.546Z",
+      "source": "europe-retail"
+    },
+    "bobbibrown.co.uk": {
+      "checkedAt": "2026-05-31T10:57:52.687Z",
+      "source": "europe-retail"
+    },
+    "officinegenerale.com": {
+      "checkedAt": "2026-05-31T10:57:52.717Z",
+      "source": "europe-retail"
+    },
+    "ghbass-eu.com": {
+      "checkedAt": "2026-05-31T10:57:53.595Z",
+      "source": "europe-retail"
+    },
+    "sohighsoho.co.uk": {
+      "checkedAt": "2026-05-31T10:57:53.849Z",
+      "source": "europe-retail"
+    },
+    "cpgb-ml.org": {
+      "checkedAt": "2026-05-31T10:57:54.108Z",
+      "source": "europe-retail"
+    },
+    "blenheimforge.co.uk": {
+      "checkedAt": "2026-05-31T10:57:54.273Z",
+      "source": "europe-retail"
+    },
+    "natashazinko.com": {
+      "checkedAt": "2026-05-31T10:57:54.407Z",
+      "source": "europe-retail"
+    },
+    "hockleylondon.com": {
+      "checkedAt": "2026-05-31T10:57:54.716Z",
+      "source": "europe-retail"
+    },
+    "shapero.com": {
+      "checkedAt": "2026-05-31T10:57:54.946Z",
+      "source": "europe-retail"
+    },
+    "fabianafilippi.com": {
+      "checkedAt": "2026-05-31T10:57:55.862Z",
+      "source": "europe-retail"
+    },
+    "joseph-fashion.com": {
+      "checkedAt": "2026-05-31T10:57:56.155Z",
+      "source": "europe-retail"
+    },
+    "schniederboots.com": {
+      "checkedAt": "2026-05-31T10:57:56.191Z",
+      "source": "europe-retail"
+    },
+    "matchlesslondon.com": {
+      "checkedAt": "2026-05-31T10:57:56.762Z",
+      "source": "europe-retail"
+    },
+    "moschino.it": {
+      "checkedAt": "2026-05-31T10:57:57.154Z",
+      "source": "europe-retail"
+    },
+    "rojaparfums.com": {
+      "checkedAt": "2026-05-31T10:57:57.447Z",
+      "source": "europe-retail"
+    },
+    "blackbirdboutique.co.uk": {
+      "checkedAt": "2026-05-31T10:57:57.680Z",
+      "source": "europe-retail"
+    },
+    "truegrace.co.uk": {
+      "checkedAt": "2026-05-31T10:57:58.119Z",
+      "source": "europe-retail"
+    },
+    "sterlingdiamond.co.uk": {
+      "checkedAt": "2026-05-31T10:57:58.749Z",
+      "source": "europe-retail"
+    },
+    "richardogden.com": {
+      "checkedAt": "2026-05-31T10:57:59.183Z",
+      "source": "europe-retail"
+    },
+    "dormeuil.com": {
+      "checkedAt": "2026-05-31T10:57:59.779Z",
+      "source": "europe-retail"
+    },
+    "mulberry.com": {
+      "checkedAt": "2026-05-31T10:57:59.980Z",
+      "source": "europe-retail"
+    },
+    "cashmirino.com": {
+      "checkedAt": "2026-05-31T10:58:00.174Z",
+      "source": "europe-retail"
+    },
+    "georgecleverley.com": {
+      "checkedAt": "2026-05-31T10:58:00.226Z",
+      "source": "europe-retail"
+    },
+    "beards.co.uk": {
+      "checkedAt": "2026-05-31T10:58:00.990Z",
+      "source": "europe-retail"
+    },
+    "ebmeyrowitz.co.uk": {
+      "checkedAt": "2026-05-31T10:58:01.326Z",
+      "source": "europe-retail"
+    },
+    "ormondejayne.com": {
+      "checkedAt": "2026-05-31T10:58:01.716Z",
+      "source": "europe-retail"
+    },
+    "aquazzura.com": {
+      "checkedAt": "2026-05-31T10:58:01.872Z",
+      "source": "europe-retail"
+    },
+    "thombrowne.com": {
+      "checkedAt": "2026-05-31T10:58:03.138Z",
+      "source": "europe-retail"
+    },
+    "alexanderwang.com": {
+      "checkedAt": "2026-05-31T10:58:03.235Z",
+      "source": "europe-retail"
+    },
+    "simmonsbakers.com": {
+      "checkedAt": "2026-05-31T10:58:03.741Z",
+      "source": "europe-retail"
+    },
+    "peterharrington.co.uk": {
+      "checkedAt": "2026-05-31T10:58:03.949Z",
+      "source": "europe-retail"
+    },
+    "thewedding-club.co.uk": {
+      "checkedAt": "2026-05-31T10:58:04.005Z",
+      "source": "europe-retail"
+    },
+    "victoriabeckham.com": {
+      "checkedAt": "2026-05-31T10:58:04.022Z",
+      "source": "europe-retail"
+    },
+    "turnbullandasser.com": {
+      "checkedAt": "2026-05-31T10:58:04.763Z",
+      "source": "europe-retail"
+    },
+    "thomsweeney.co.uk": {
+      "checkedAt": "2026-05-31T10:58:04.894Z",
+      "source": "europe-retail"
+    },
+    "toryburch.co.uk": {
+      "checkedAt": "2026-05-31T10:58:05.320Z",
+      "source": "europe-retail"
+    },
+    "johndecarleopticians.co.uk": {
+      "checkedAt": "2026-05-31T10:58:06.104Z",
+      "source": "europe-retail"
+    },
+    "aspinaloflondon.com": {
+      "checkedAt": "2026-05-31T10:58:06.130Z",
+      "source": "europe-retail"
+    },
+    "sahrai.com": {
+      "checkedAt": "2026-05-31T10:58:06.227Z",
+      "source": "europe-retail"
+    },
+    "celestolite.co.uk": {
+      "checkedAt": "2026-05-31T10:58:06.382Z",
+      "source": "europe-retail"
+    },
+    "slowear.com": {
+      "checkedAt": "2026-05-31T10:58:07.252Z",
+      "source": "europe-retail"
+    },
+    "giovanniraspini.com": {
+      "checkedAt": "2026-05-31T10:58:07.290Z",
+      "source": "europe-retail"
+    },
+    "vilagallo.es": {
+      "checkedAt": "2026-05-31T10:58:07.657Z",
+      "source": "europe-retail"
+    },
+    "jessicamccormack.com": {
+      "checkedAt": "2026-05-31T10:58:07.834Z",
+      "source": "europe-retail"
+    },
+    "amiparis.com": {
+      "checkedAt": "2026-05-31T10:58:08.466Z",
+      "source": "europe-retail"
+    },
+    "cjohn.com": {
+      "checkedAt": "2026-05-31T10:58:09.018Z",
+      "source": "europe-retail"
+    },
+    "rolandmouret.com": {
+      "checkedAt": "2026-05-31T10:58:09.407Z",
+      "source": "europe-retail"
+    },
+    "mariagrachvogel.com": {
+      "checkedAt": "2026-05-31T10:58:10.501Z",
+      "source": "europe-retail"
+    },
+    "lalabooks.london": {
+      "checkedAt": "2026-05-31T10:58:10.734Z",
+      "source": "europe-retail"
+    },
+    "richardneil.co.uk": {
+      "checkedAt": "2026-05-31T10:58:10.777Z",
+      "source": "europe-retail"
+    },
+    "owenscorp.com": {
+      "checkedAt": "2026-05-31T10:58:12.121Z",
+      "source": "europe-retail"
+    },
+    "horrocksandboyd.co.uk": {
+      "checkedAt": "2026-05-31T10:58:12.216Z",
+      "source": "europe-retail"
+    },
+    "lantstreetwine.com": {
+      "checkedAt": "2026-05-31T10:58:13.622Z",
+      "source": "europe-retail"
+    },
+    "nailsandbrows.me": {
+      "checkedAt": "2026-05-31T10:58:13.884Z",
+      "source": "europe-retail"
+    },
+    "higginsbutchers.co.uk": {
+      "checkedAt": "2026-05-31T10:58:14.888Z",
+      "source": "europe-retail"
+    },
+    "phloxbooks.com": {
+      "checkedAt": "2026-05-31T10:58:15.170Z",
+      "source": "europe-retail"
+    },
+    "curtainfactoryoutlet.co.uk": {
+      "checkedAt": "2026-05-31T10:58:16.032Z",
+      "source": "europe-retail"
+    },
+    "moussaieff-jewellers.com": {
+      "checkedAt": "2026-05-31T10:58:16.164Z",
+      "source": "europe-retail"
+    },
+    "beauty-school.co.uk": {
+      "checkedAt": "2026-05-31T10:58:17.359Z",
+      "source": "europe-retail"
+    },
+    "knightsbridgeadvancedbeauty.co.uk": {
+      "checkedAt": "2026-05-31T10:58:18.805Z",
+      "source": "europe-retail"
+    },
+    "finepoint.co.uk": {
+      "checkedAt": "2026-05-31T10:58:20.173Z",
+      "source": "europe-retail"
+    },
+    "hiromiyoshi.com": {
+      "checkedAt": "2026-05-31T10:58:20.265Z",
+      "source": "europe-retail"
+    },
+    "lunicobespokedesign.com": {
+      "checkedAt": "2026-05-31T10:58:20.399Z",
+      "source": "europe-retail"
+    },
+    "coughlansbakery.co.uk": {
+      "checkedAt": "2026-05-31T10:58:21.344Z",
+      "source": "europe-retail"
+    },
+    "madlilies.co.uk": {
+      "checkedAt": "2026-05-31T10:58:21.413Z",
+      "source": "europe-retail"
+    },
+    "atariya.co.uk": {
+      "checkedAt": "2026-05-31T10:58:23.249Z",
+      "source": "europe-retail"
+    },
+    "adamgroomingatelier.com": {
+      "checkedAt": "2026-05-31T10:58:23.657Z",
+      "source": "europe-retail"
+    },
+    "kitchenprovisions.co.uk": {
+      "checkedAt": "2026-05-31T10:58:24.529Z",
+      "source": "europe-retail"
+    },
+    "minotticucinelondon.com": {
+      "checkedAt": "2026-05-31T10:58:25.964Z",
+      "source": "europe-retail"
+    },
+    "handembroidery.com": {
+      "checkedAt": "2026-05-31T10:58:26.128Z",
+      "source": "europe-retail"
+    },
+    "boutiquespa.co.uk": {
+      "checkedAt": "2026-05-31T10:58:27.458Z",
+      "source": "europe-retail"
+    },
+    "hair305london.com": {
+      "checkedAt": "2026-05-31T10:58:27.574Z",
+      "source": "europe-retail"
+    },
+    "bondsofbrentwood.co.uk": {
+      "checkedAt": "2026-05-31T10:58:28.276Z",
+      "source": "europe-retail"
+    },
+    "thewhiskyexchange.com": {
+      "checkedAt": "2026-05-31T10:58:28.687Z",
+      "source": "europe-retail"
+    },
+    "clutch-cafe.com": {
+      "checkedAt": "2026-05-31T10:58:28.941Z",
+      "source": "europe-retail"
+    },
+    "earlsfieldhair.com": {
+      "checkedAt": "2026-05-31T10:58:29.536Z",
+      "source": "europe-retail"
+    },
+    "sarahandbendrix.com": {
+      "checkedAt": "2026-05-31T10:58:29.636Z",
+      "source": "europe-retail"
+    },
+    "blumestudio.co.uk": {
+      "checkedAt": "2026-05-31T10:58:30.376Z",
+      "source": "europe-retail"
+    },
+    "guinotearlsfield.guinot.com": {
+      "checkedAt": "2026-05-31T10:58:30.626Z",
+      "source": "europe-retail"
+    },
+    "it-partnership.com": {
+      "checkedAt": "2026-05-31T10:58:31.177Z",
+      "source": "europe-retail"
+    },
+    "ruffians.co.uk": {
+      "checkedAt": "2026-05-31T10:58:31.693Z",
+      "source": "europe-retail"
+    },
+    "roundhousedesign.com": {
+      "checkedAt": "2026-05-31T10:58:32.957Z",
+      "source": "europe-retail"
+    },
+    "hampsteadbazaar.com": {
+      "checkedAt": "2026-05-31T10:58:33.369Z",
+      "source": "europe-retail"
+    },
+    "axisclinic.co.uk": {
+      "checkedAt": "2026-05-31T10:58:34.891Z",
+      "source": "europe-retail"
+    },
+    "tomhowley.co.uk": {
+      "checkedAt": "2026-05-31T10:58:35.751Z",
+      "source": "europe-retail"
+    },
+    "wigmoresports.co.uk": {
+      "checkedAt": "2026-05-31T10:58:36.451Z",
+      "source": "europe-retail"
+    },
+    "razer.com": {
+      "checkedAt": "2026-05-31T10:58:37.128Z",
+      "source": "europe-retail"
+    },
+    "benandfis.com": {
+      "checkedAt": "2026-05-31T10:58:37.230Z",
+      "source": "europe-retail"
+    },
+    "andsotobed.co.uk": {
+      "checkedAt": "2026-05-31T10:58:37.830Z",
+      "source": "europe-retail"
+    },
+    "simitsarayi.com": {
+      "checkedAt": "2026-05-31T10:58:39.571Z",
+      "source": "europe-retail"
+    },
+    "bonpoint.com": {
+      "checkedAt": "2026-05-31T10:58:40.066Z",
+      "source": "europe-retail"
+    },
+    "charming.me.uk": {
+      "checkedAt": "2026-05-31T10:58:40.506Z",
+      "source": "europe-retail"
+    },
+    "toa.st": {
+      "checkedAt": "2026-05-31T10:58:41.428Z",
+      "source": "europe-retail"
+    },
+    "vanclarke.com": {
+      "checkedAt": "2026-05-31T10:58:41.729Z",
+      "source": "europe-retail"
+    },
+    "sessun.co.uk": {
+      "checkedAt": "2026-05-31T10:58:41.936Z",
+      "source": "europe-retail"
+    },
+    "rogerpope.co.uk": {
+      "checkedAt": "2026-05-31T10:58:42.650Z",
+      "source": "europe-retail"
+    },
+    "fabrianoboutique.co.uk": {
+      "checkedAt": "2026-05-31T10:58:43.193Z",
+      "source": "europe-retail"
+    },
+    "athertoncox.co.uk": {
+      "checkedAt": "2026-05-31T10:58:43.876Z",
+      "source": "europe-retail"
+    },
+    "annaij.com": {
+      "checkedAt": "2026-05-31T10:58:44.642Z",
+      "source": "europe-retail"
+    },
+    "stores.pandora.net": {
+      "checkedAt": "2026-05-31T10:58:44.863Z",
+      "source": "europe-retail"
+    },
+    "apricotonline.co.uk": {
+      "checkedAt": "2026-05-31T10:58:45.585Z",
+      "source": "europe-retail"
+    },
+    "tedsgroomingroom.com": {
+      "checkedAt": "2026-05-31T10:58:45.724Z",
+      "source": "europe-retail"
+    },
+    "koibird.com": {
+      "checkedAt": "2026-05-31T10:58:45.937Z",
+      "source": "europe-retail"
+    },
+    "alveenacasa.com": {
+      "checkedAt": "2026-05-31T10:58:46.671Z",
+      "source": "europe-retail"
+    },
+    "maisonkayser.co.uk": {
+      "checkedAt": "2026-05-31T10:58:46.815Z",
+      "source": "europe-retail"
+    },
+    "grenson.com": {
+      "checkedAt": "2026-05-31T10:58:47.350Z",
+      "source": "europe-retail"
+    },
+    "giellygreen.co.uk": {
+      "checkedAt": "2026-05-31T10:58:47.399Z",
+      "source": "europe-retail"
+    },
+    "larkandberry.co.uk": {
+      "checkedAt": "2026-05-31T10:58:47.877Z",
+      "source": "europe-retail"
+    },
+    "audiolounge.co.uk": {
+      "checkedAt": "2026-05-31T10:58:49.511Z",
+      "source": "europe-retail"
+    },
+    "alberreodette.com": {
+      "checkedAt": "2026-05-31T10:58:49.548Z",
+      "source": "europe-retail"
+    },
+    "jscouture.com": {
+      "checkedAt": "2026-05-31T10:58:50.109Z",
+      "source": "europe-retail"
+    },
+    "drjoneydesouza.com": {
+      "checkedAt": "2026-05-31T10:58:51.212Z",
+      "source": "europe-retail"
+    },
+    "anna-nina.nl": {
+      "checkedAt": "2026-05-31T10:58:51.551Z",
+      "source": "europe-retail"
+    },
+    "mallonandtaub.com": {
+      "checkedAt": "2026-05-31T10:58:52.653Z",
+      "source": "europe-retail"
+    },
+    "shreejinewsagents.com": {
+      "checkedAt": "2026-05-31T10:58:52.952Z",
+      "source": "europe-retail"
+    }
+  }
 }

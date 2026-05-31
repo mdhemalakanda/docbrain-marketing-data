@@ -1,6 +1,7 @@
 aaa@monocle.com	https://monocle.com
 advertising@monocle.com	https://monocle.com
 akf@monocle.com	https://monocle.com
+alex@mariagrachvogel.com	https://www.mariagrachvogel.com
 amc@monocle.com	https://monocle.com
 ao@monocle.com	https://monocle.com
 as@monocle.com	https://monocle.com
@@ -10,6 +11,9 @@ dp@monocle.com	https://monocle.com
 fw@monocle.com	https://monocle.com
 hek@monocle.com	https://monocle.com
 info@jahan.ch	https://jahan.ch
+info@mariagrachvogel.com	https://www.mariagrachvogel.com
+info@susannahlovis.com	https://www.susannahlovis.com
+info@yooako.com	https://sarahandbendrix.com
 jaf@monocle.com	https://monocle.com
 jch@monocle.com	https://monocle.com
 jms@monocle.com	https://monocle.com

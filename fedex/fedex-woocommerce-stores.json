@@ -1,0 +1,74 @@
+[
+  {
+    "website": "https://jahan.ch",
+    "name": "Jahan Jewellery",
+    "wordpress": true,
+    "woocommerce": true,
+    "fedex": true,
+    "source": "europe-retail",
+    "verifiedAt": "2026-05-31T10:51:13.721Z"
+  },
+  {
+    "website": "https://monocle.com",
+    "name": "Monocle",
+    "wordpress": true,
+    "woocommerce": true,
+    "fedex": true,
+    "source": "europe-retail",
+    "verifiedAt": "2026-05-31T10:52:10.431Z"
+  },
+  {
+    "website": "https://coxandpower.com",
+    "name": "Cox &amp; Power Jewellers",
+    "wordpress": true,
+    "woocommerce": true,
+    "fedex": true,
+    "source": "europe-retail",
+    "verifiedAt": "2026-05-31T10:52:11.755Z"
+  },
+  {
+    "website": "https://www.kettleclub.co.uk",
+    "name": "Kettle Club -",
+    "wordpress": true,
+    "woocommerce": true,
+    "fedex": true,
+    "source": "europe-retail",
+    "verifiedAt": "2026-05-31T10:54:24.838Z"
+  },
+  {
+    "website": "https://monocle.com",
+    "name": "Monocle",
+    "wordpress": true,
+    "woocommerce": true,
+    "fedex": true,
+    "source": "europe-retail",
+    "verifiedAt": "2026-05-31T10:55:40.593Z"
+  },
+  {
+    "website": "https://www.susannahlovis.com",
+    "name": "Susannah Lovis Jewellers",
+    "wordpress": true,
+    "woocommerce": true,
+    "fedex": true,
+    "source": "europe-retail",
+    "verifiedAt": "2026-05-31T10:55:50.789Z"
+  },
+  {
+    "website": "https://www.mariagrachvogel.com",
+    "name": "Maria Grachvogel",
+    "wordpress": true,
+    "woocommerce": true,
+    "fedex": true,
+    "source": "europe-retail",
+    "verifiedAt": "2026-05-31T10:58:10.501Z"
+  },
+  {
+    "website": "https://sarahandbendrix.com",
+    "name": "Sarahandbendrix.com",
+    "wordpress": true,
+    "woocommerce": true,
+    "fedex": true,
+    "source": "europe-retail",
+    "verifiedAt": "2026-05-31T10:58:29.636Z"
+  }
+]

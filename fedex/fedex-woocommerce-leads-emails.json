@@ -24,6 +24,14 @@
     "category": "fedex-woocommerce"
   },
   {
+    "email": "alex@mariagrachvogel.com",
+    "website": "https://www.mariagrachvogel.com",
+    "name": "Maria Grachvogel",
+    "city": "London",
+    "country": "UK",
+    "category": "fedex-woocommerce"
+  },
+  {
     "email": "amc@monocle.com",
     "website": "https://monocle.com",
     "name": "Monocle",
@@ -92,6 +100,30 @@
     "website": "https://jahan.ch",
     "name": "Jahan Jewellery",
     "city": "London",
+    "country": "UK",
+    "category": "fedex-woocommerce"
+  },
+  {
+    "email": "info@mariagrachvogel.com",
+    "website": "https://www.mariagrachvogel.com",
+    "name": "Maria Grachvogel",
+    "city": "London",
+    "country": "UK",
+    "category": "fedex-woocommerce"
+  },
+  {
+    "email": "info@susannahlovis.com",
+    "website": "https://www.susannahlovis.com",
+    "name": "Susannah Lovis Jewellers",
+    "city": "London",
+    "country": "UK",
+    "category": "fedex-woocommerce"
+  },
+  {
+    "email": "info@yooako.com",
+    "website": "https://sarahandbendrix.com",
+    "name": "Sarahandbendrix.com",
+    "city": "Sutton",
     "country": "UK",
     "category": "fedex-woocommerce"
   },
