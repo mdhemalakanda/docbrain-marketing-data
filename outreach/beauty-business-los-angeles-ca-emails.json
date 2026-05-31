@@ -1,0 +1,58 @@
+[
+  {
+    "email": "acuspa@acuspapasadena.com",
+    "website": "",
+    "name": "AcuSpa",
+    "city": "Pasadena",
+    "country": "US",
+    "category": "beauty"
+  },
+  {
+    "email": "alchemymensgrooming@gmail.com",
+    "website": "",
+    "name": "Alchemy Men's Grooming",
+    "city": "Los Angeles",
+    "country": "US",
+    "category": "beauty"
+  },
+  {
+    "email": "angelhairsalon@hotmail.com",
+    "website": "",
+    "name": "Angel's Touch",
+    "city": "Los Angeles",
+    "country": "US",
+    "category": "beauty"
+  },
+  {
+    "email": "info@amityhair.com",
+    "website": "",
+    "name": "Amity Hair",
+    "city": "Los Angeles",
+    "country": "US",
+    "category": "beauty"
+  },
+  {
+    "email": "ningbing8107@gmail.com",
+    "website": "",
+    "name": "2M Salon",
+    "city": "Los Angeles",
+    "country": "US",
+    "category": "beauty"
+  },
+  {
+    "email": "pasadena@aesop.com",
+    "website": "",
+    "name": "Aesop (Pasadena)",
+    "city": "Pasadena",
+    "country": "US",
+    "category": "beauty"
+  },
+  {
+    "email": "silverlake@aesop.com",
+    "website": "",
+    "name": "Aesop (Silverlake)",
+    "city": "Los Angeles",
+    "country": "US",
+    "category": "beauty"
+  }
+]

@@ -6,9 +6,9 @@ Public mirror of outreach lead files from `plugins/docbrain-marketing/data/outre
 
 | File | Description |
 |------|-------------|
-| `outreach/europe-retail-leads-emails.json` | Raw JSON array of business emails (copy-paste) |
-| `outreach/europe-retail-leads-emails.txt` | Same emails, one per line |
-| `outreach/europe-retail-leads-brevo.csv` | Brevo import (`EMAIL,FIRSTNAME,LASTNAME`) |
+| `outreach/europe-retail-leads-emails.json` | JSON array: `{ email, website, name, city, country, category }` |
+| `outreach/europe-retail-leads-emails.txt` | Tab-separated: `email<TAB>website` |
+| `outreach/europe-retail-leads-brevo.csv` | Brevo import: `EMAIL,FIRSTNAME,LASTNAME,WEBSITE` |
 | `outreach/europe-retail-leads.csv` | Full leads with website, city, category |
 | `outreach/europe-retail-leads-master.json` | Scraper resume state |
 | `outreach/europe-scrape.log` | Scraper progress log |
