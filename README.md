@@ -27,8 +27,8 @@ Public mirror of outreach lead files from `plugins/docbrain-marketing/data/`.
 
 | Metric | Count |
 |--------|------:|
-| Verified stores | 8+ (scrape in progress) |
-| Exportable emails | 35+ |
+| Verified stores | 13 |
+| Exportable emails | 39 |
 | Target | 6000 |
 
 | File | Description |

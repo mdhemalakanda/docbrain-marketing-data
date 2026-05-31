@@ -72,6 +72,14 @@
     "category": "fedex-woocommerce"
   },
   {
+    "email": "dev@socialidea.it",
+    "website": "https://www.poliform.it",
+    "name": "Poliform",
+    "city": "London",
+    "country": "UK",
+    "category": "fedex-woocommerce"
+  },
+  {
     "email": "dp@monocle.com",
     "website": "https://monocle.com",
     "name": "Monocle",
@@ -104,19 +112,43 @@
     "category": "fedex-woocommerce"
   },
   {
-    "email": "info@mariagrachvogel.com",
-    "website": "https://www.mariagrachvogel.com",
-    "name": "Maria Grachvogel",
+    "email": "info@number4.boutique",
+    "website": "https://number4.boutique",
+    "name": "No.4 Boutique",
+    "city": "Esher",
+    "country": "UK",
+    "category": "fedex-woocommerce"
+  },
+  {
+    "email": "info@oska.com",
+    "website": "https://www.oska.com",
+    "name": "OSKA",
     "city": "London",
     "country": "UK",
     "category": "fedex-woocommerce"
   },
   {
-    "email": "info@susannahlovis.com",
-    "website": "https://www.susannahlovis.com",
-    "name": "Susannah Lovis Jewellers",
+    "email": "info@sahrai.com",
+    "website": "https://sahrai.com",
+    "name": "Sahrai",
     "city": "London",
     "country": "UK",
+    "category": "fedex-woocommerce"
+  },
+  {
+    "email": "info@simonsmithflowers.com",
+    "website": "https://simonsmithflowers.com",
+    "name": "Flower Delivery",
+    "city": "London",
+    "country": "UK",
+    "category": "fedex-woocommerce"
+  },
+  {
+    "email": "info@stagheaddesigns.com",
+    "website": "https://www.neweracap.com",
+    "name": "New Era Cap",
+    "city": "Atlanta",
+    "country": "US",
     "category": "fedex-woocommerce"
   },
   {

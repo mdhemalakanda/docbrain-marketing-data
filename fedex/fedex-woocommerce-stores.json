@@ -45,13 +45,13 @@
     "verifiedAt": "2026-05-31T10:55:40.593Z"
   },
   {
-    "website": "https://www.susannahlovis.com",
-    "name": "Susannah Lovis Jewellers",
+    "website": "https://sahrai.com",
+    "name": "Sahrai",
     "wordpress": true,
     "woocommerce": true,
     "fedex": true,
     "source": "europe-retail",
-    "verifiedAt": "2026-05-31T10:55:50.789Z"
+    "verifiedAt": "2026-05-31T11:18:53.601Z"
   },
   {
     "website": "https://www.mariagrachvogel.com",
@@ -60,7 +60,7 @@
     "woocommerce": true,
     "fedex": true,
     "source": "europe-retail",
-    "verifiedAt": "2026-05-31T10:58:10.501Z"
+    "verifiedAt": "2026-05-31T11:18:55.578Z"
   },
   {
     "website": "https://sarahandbendrix.com",
@@ -69,6 +69,51 @@
     "woocommerce": true,
     "fedex": true,
     "source": "europe-retail",
-    "verifiedAt": "2026-05-31T10:58:29.636Z"
+    "verifiedAt": "2026-05-31T11:19:12.137Z"
+  },
+  {
+    "website": "https://simonsmithflowers.com",
+    "name": "Flower Delivery",
+    "wordpress": true,
+    "woocommerce": true,
+    "fedex": true,
+    "source": "europe-retail",
+    "verifiedAt": "2026-05-31T11:21:07.119Z"
+  },
+  {
+    "website": "https://www.oska.com",
+    "name": "OSKA",
+    "wordpress": true,
+    "woocommerce": true,
+    "fedex": true,
+    "source": "europe-retail",
+    "verifiedAt": "2026-05-31T11:22:15.241Z"
+  },
+  {
+    "website": "https://www.poliform.it",
+    "name": "Poliform",
+    "wordpress": true,
+    "woocommerce": true,
+    "fedex": true,
+    "source": "europe-retail",
+    "verifiedAt": "2026-05-31T11:22:09.371Z"
+  },
+  {
+    "website": "https://number4.boutique",
+    "name": "No.4 Boutique",
+    "wordpress": true,
+    "woocommerce": true,
+    "fedex": true,
+    "source": "europe-retail",
+    "verifiedAt": "2026-05-31T11:22:50.291Z"
+  },
+  {
+    "website": "https://www.neweracap.com",
+    "name": "New Era Cap",
+    "wordpress": true,
+    "woocommerce": true,
+    "fedex": true,
+    "source": "osm",
+    "verifiedAt": "2026-05-31T11:24:55.127Z"
   }
 ]
