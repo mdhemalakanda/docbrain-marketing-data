@@ -2,6 +2,14 @@
 
 Public mirror of outreach lead files from `plugins/docbrain-marketing/data/outreach/`.
 
+## Europe retail outreach (final)
+
+| Metric | Count |
+|--------|------:|
+| Leads | 3000 |
+| Exportable emails | 2975 |
+| Leads with website | 2906 |
+
 ## Files
 
 | File | Description |
