@@ -1,0 +1,662 @@
+{
+  "updatedAt": "2026-05-31T10:47:12.913Z",
+  "target": 6000,
+  "verifiedStoreCount": 3,
+  "emailCount": 31,
+  "leadCount": 31,
+  "checkedDomainCount": 664,
+  "verifiedStores": {
+    "jahan.ch": {
+      "website": "https://jahan.ch",
+      "name": "Jahan Jewellery",
+      "wordpress": true,
+      "woocommerce": true,
+      "fedex": true,
+      "verifiedAt": "2026-05-31T10:44:14.054Z",
+      "source": "europe-retail"
+    },
+    "monocle.com": {
+      "website": "https://monocle.com",
+      "name": "Monocle",
+      "wordpress": true,
+      "woocommerce": true,
+      "fedex": true,
+      "verifiedAt": "2026-05-31T10:45:19.712Z",
+      "source": "europe-retail"
+    },
+    "coxandpower.com": {
+      "website": "https://coxandpower.com",
+      "name": "Cox &amp; Power Jewellers",
+      "wordpress": true,
+      "woocommerce": true,
+      "fedex": true,
+      "verifiedAt": "2026-05-31T10:45:21.582Z",
+      "source": "europe-retail"
+    }
+  },
+  "emails": {
+    "info@jahan.ch": {
+      "name": "Jahan Jewellery",
+      "website": "https://jahan.ch",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "customerservice@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "kinghek@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "wilsonfw@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "chambersjch@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "amc@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "hek@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "fw@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "jch@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "akf@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "jaf@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "sg@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "nt@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "mpb@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "nm@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "jms@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "sbu@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "as@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "rj@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "lc@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "ra@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "lb@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "dp@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "aaa@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "advertising@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "selim@dlx.co": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "klu@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "ao@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "subscriptions@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "pc@monocle.com": {
+      "name": "Monocle",
+      "website": "https://monocle.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    },
+    "marylebone@coxandpower.com": {
+      "name": "Cox &amp; Power Jewellers",
+      "website": "https://coxandpower.com",
+      "city": "London",
+      "country": "UK",
+      "category": "fedex-woocommerce"
+    }
+  },
+  "leads": [
+    {
+      "name": "Jahan Jewellery",
+      "email": "info@jahan.ch",
+      "phone": "+44 20 3887 7753",
+      "website": "https://jahan.ch",
+      "address": "6C Sloane Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "customerservice@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "kinghek@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "wilsonfw@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "chambersjch@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "amc@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "hek@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "fw@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "jch@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "akf@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "jaf@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "sg@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "nt@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "mpb@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "nm@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "jms@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "sbu@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "as@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "rj@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "lc@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "ra@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "lb@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "dp@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "aaa@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "advertising@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "selim@dlx.co",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "klu@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "ao@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "subscriptions@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Monocle",
+      "email": "pc@monocle.com",
+      "phone": "+44 20 7486 8770",
+      "website": "https://monocle.com",
+      "address": "34 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7QH",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    },
+    {
+      "name": "Cox &amp; Power Jewellers",
+      "email": "marylebone@coxandpower.com",
+      "phone": "+44 20 7935 3530",
+      "website": "https://coxandpower.com",
+      "address": "10-12 Chiltern Street",
+      "city": "London",
+      "country": "UK",
+      "postcode": "W1U 7PX",
+      "wordpress": "yes",
+      "woocommerce": "yes",
+      "fedex": "yes"
+    }
+  ],
+  "checkedDomains": {}
+}

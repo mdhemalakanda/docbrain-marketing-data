@@ -1,0 +1,424 @@
+
+> docbrain-marketing@1.0.0 scrape:fedex
+> node scripts/scrape-fedex-woocommerce-leads.mjs --target 6000
+
+Target: 6000 emails · current: 0
+[2026-05-31T10:15:38.277Z] Target: 6000 emails · current: 0
+Showcase page 1: 27 external links
+[2026-05-31T10:15:47.099Z] Showcase page 1: 27 external links
+Showcase page 2: 27 external links
+[2026-05-31T10:15:48.727Z] Showcase page 2: 27 external links
+Showcase page 3: 27 external links
+[2026-05-31T10:15:50.465Z] Showcase page 3: 27 external links
+Showcase page 4: 27 external links
+[2026-05-31T10:15:51.911Z] Showcase page 4: 27 external links
+Showcase page 5: 27 external links
+[2026-05-31T10:15:53.947Z] Showcase page 5: 27 external links
+Showcase page 6: 27 external links
+[2026-05-31T10:15:55.429Z] Showcase page 6: 27 external links
+Showcase page 7: 27 external links
+[2026-05-31T10:15:56.880Z] Showcase page 7: 27 external links
+Showcase page 8: 27 external links
+[2026-05-31T10:15:58.549Z] Showcase page 8: 27 external links
+Showcase page 9: 27 external links
+[2026-05-31T10:16:00.138Z] Showcase page 9: 27 external links
+Showcase page 10: 27 external links
+[2026-05-31T10:16:01.725Z] Showcase page 10: 27 external links
+Showcase page 11: 27 external links
+[2026-05-31T10:16:03.452Z] Showcase page 11: 27 external links
+Showcase page 12: 27 external links
+[2026-05-31T10:16:05.211Z] Showcase page 12: 27 external links
+Showcase page 13: 27 external links
+[2026-05-31T10:16:07.248Z] Showcase page 13: 27 external links
+Showcase page 14: 27 external links
+[2026-05-31T10:16:09.153Z] Showcase page 14: 27 external links
+Showcase page 15: 27 external links
+[2026-05-31T10:16:10.810Z] Showcase page 15: 27 external links
+Showcase page 16: 27 external links
+[2026-05-31T10:16:13.620Z] Showcase page 16: 27 external links
+Showcase page 17: 27 external links
+[2026-05-31T10:16:16.106Z] Showcase page 17: 27 external links
+Showcase page 18: 27 external links
+[2026-05-31T10:16:17.818Z] Showcase page 18: 27 external links
+Showcase page 19: 27 external links
+[2026-05-31T10:16:19.994Z] Showcase page 19: 27 external links
+Showcase page 20: 27 external links
+[2026-05-31T10:16:21.695Z] Showcase page 20: 27 external links
+Showcase page 21: 27 external links
+[2026-05-31T10:16:23.462Z] Showcase page 21: 27 external links
+Showcase page 22: 27 external links
+[2026-05-31T10:16:25.119Z] Showcase page 22: 27 external links
+Showcase page 23: 27 external links
+[2026-05-31T10:16:26.697Z] Showcase page 23: 27 external links
+Showcase page 24: 27 external links
+[2026-05-31T10:16:28.658Z] Showcase page 24: 27 external links
+Showcase page 25: 27 external links
+[2026-05-31T10:16:30.743Z] Showcase page 25: 27 external links
+Showcase page 26: 27 external links
+[2026-05-31T10:16:32.379Z] Showcase page 26: 27 external links
+Showcase page 27: 27 external links
+[2026-05-31T10:16:34.098Z] Showcase page 27: 27 external links
+Showcase page 28: 27 external links
+[2026-05-31T10:16:35.772Z] Showcase page 28: 27 external links
+Showcase page 29: 27 external links
+[2026-05-31T10:16:37.376Z] Showcase page 29: 27 external links
+Showcase page 30: 27 external links
+[2026-05-31T10:16:39.071Z] Showcase page 30: 27 external links
+OSM seeds: New York, US
+[2026-05-31T10:16:39.883Z] OSM seeds: New York, US
+OSM seeds: Los Angeles, US
+[2026-05-31T10:16:52.737Z] OSM seeds: Los Angeles, US
+OSM seeds: Chicago, US
+[2026-05-31T10:17:04.162Z] OSM seeds: Chicago, US
+OSM seeds: Houston, US
+[2026-05-31T10:18:01.679Z] OSM seeds: Houston, US
+OSM seeds: Phoenix, US
+[2026-05-31T10:18:12.996Z] OSM seeds: Phoenix, US
+OSM seeds: Philadelphia, US
+[2026-05-31T10:18:24.219Z] OSM seeds: Philadelphia, US
+OSM seeds: San Antonio, US
+[2026-05-31T10:19:27.005Z] OSM seeds: San Antonio, US
+OSM seeds: San Diego, US
+[2026-05-31T10:19:38.221Z] OSM seeds: San Diego, US
+OSM seeds: Dallas, US
+[2026-05-31T10:19:49.505Z] OSM seeds: Dallas, US
+OSM seeds: San Jose, US
+[2026-05-31T10:20:00.756Z] OSM seeds: San Jose, US
+OSM seeds: Austin, US
+[2026-05-31T10:20:12.065Z] OSM seeds: Austin, US
+OSM seeds: Jacksonville, US
+[2026-05-31T10:20:23.724Z] OSM seeds: Jacksonville, US
+OSM seeds: Fort Worth, US
+[2026-05-31T10:20:35.269Z] OSM seeds: Fort Worth, US
+OSM seeds: Columbus, US
+[2026-05-31T10:20:46.653Z] OSM seeds: Columbus, US
+OSM seeds: Charlotte, US
+[2026-05-31T10:20:59.620Z] OSM seeds: Charlotte, US
+OSM seeds: Indianapolis, US
+[2026-05-31T10:21:10.766Z] OSM seeds: Indianapolis, US
+OSM seeds: Seattle, US
+[2026-05-31T10:21:22.872Z] OSM seeds: Seattle, US
+OSM seeds: Denver, US
+[2026-05-31T10:21:34.922Z] OSM seeds: Denver, US
+OSM seeds: Boston, US
+[2026-05-31T10:21:46.458Z] OSM seeds: Boston, US
+OSM seeds: Nashville, US
+[2026-05-31T10:21:57.588Z] OSM seeds: Nashville, US
+OSM seeds: Detroit, US
+[2026-05-31T10:22:09.246Z] OSM seeds: Detroit, US
+OSM seeds: Portland, US
+[2026-05-31T10:23:02.150Z] OSM seeds: Portland, US
+OSM seeds: Las Vegas, US
+[2026-05-31T10:23:50.259Z] OSM seeds: Las Vegas, US
+OSM seeds: Miami, US
+[2026-05-31T10:24:01.650Z] OSM seeds: Miami, US
+OSM seeds: Atlanta, US
+[2026-05-31T10:24:13.075Z] OSM seeds: Atlanta, US
+OSM seeds: Minneapolis, US
+[2026-05-31T10:24:24.514Z] OSM seeds: Minneapolis, US
+OSM seeds: Tampa, US
+[2026-05-31T10:24:38.651Z] OSM seeds: Tampa, US
+OSM seeds: Orlando, US
+[2026-05-31T10:24:51.070Z] OSM seeds: Orlando, US
+OSM seeds: Cleveland, US
+[2026-05-31T10:25:02.512Z] OSM seeds: Cleveland, US
+OSM seeds: Sacramento, US
+[2026-05-31T10:25:13.854Z] OSM seeds: Sacramento, US
+OSM seeds: San Francisco, US
+[2026-05-31T10:25:25.267Z] OSM seeds: San Francisco, US
+OSM seeds: Raleigh, US
+[2026-05-31T10:25:36.595Z] OSM seeds: Raleigh, US
+OSM seeds: Salt Lake City, US
+[2026-05-31T10:26:15.933Z] OSM seeds: Salt Lake City, US
+OSM seeds: Kansas City, US
+[2026-05-31T10:26:27.562Z] OSM seeds: Kansas City, US
+OSM seeds: St Louis, US
+[2026-05-31T10:26:39.166Z] OSM seeds: St Louis, US
+OSM seeds: Pittsburgh, US
+[2026-05-31T10:26:51.778Z] OSM seeds: Pittsburgh, US
+OSM seeds: Cincinnati, US
+[2026-05-31T10:27:05.337Z] OSM seeds: Cincinnati, US
+OSM seeds: Milwaukee, US
+[2026-05-31T10:27:17.383Z] OSM seeds: Milwaukee, US
+OSM seeds: Albuquerque, US
+[2026-05-31T10:27:31.036Z] OSM seeds: Albuquerque, US
+OSM seeds: Tucson, US
+[2026-05-31T10:27:50.194Z] OSM seeds: Tucson, US
+Unique candidate stores: 702
+[2026-05-31T10:28:01.641Z] Unique candidate stores: 702
+Progress 25/702 · verified 0 · emails 0
+[2026-05-31T10:28:16.341Z] Progress 25/702 · verified 0 · emails 0
+Progress 50/702 · verified 0 · emails 0
+[2026-05-31T10:28:22.181Z] Progress 50/702 · verified 0 · emails 0
+Progress 75/702 · verified 0 · emails 0
+[2026-05-31T10:28:28.082Z] Progress 75/702 · verified 0 · emails 0
+Progress 100/702 · verified 0 · emails 0
+[2026-05-31T10:28:35.413Z] Progress 100/702 · verified 0 · emails 0
+Progress 125/702 · verified 0 · emails 0
+[2026-05-31T10:28:46.099Z] Progress 125/702 · verified 0 · emails 0
+Progress 150/702 · verified 0 · emails 0
+[2026-05-31T10:28:52.805Z] Progress 150/702 · verified 0 · emails 0
+Progress 175/702 · verified 0 · emails 0
+[2026-05-31T10:28:58.945Z] Progress 175/702 · verified 0 · emails 0
+Progress 200/702 · verified 0 · emails 0
+[2026-05-31T10:29:07.875Z] Progress 200/702 · verified 0 · emails 0
+Progress 225/702 · verified 0 · emails 0
+[2026-05-31T10:29:17.148Z] Progress 225/702 · verified 0 · emails 0
+Progress 250/702 · verified 0 · emails 0
+[2026-05-31T10:29:22.708Z] Progress 250/702 · verified 0 · emails 0
+Progress 275/702 · verified 0 · emails 0
+[2026-05-31T10:29:33.841Z] Progress 275/702 · verified 0 · emails 0
+
+> docbrain-marketing@1.0.0 scrape:fedex
+> node scripts/scrape-fedex-woocommerce-leads.mjs --target 6000
+
+Target: 6000 emails · current: 0
+[2026-05-31T10:29:38.093Z] Target: 6000 emails · current: 0
+DDG ""woocommerce" "fedex" shop contact…": +0
+[2026-05-31T10:29:39.135Z] DDG ""woocommerce" "fedex" shop contact…": +0
+DDG ""powered by WooCommerce" "FedEx Ground"…": +0
+[2026-05-31T10:29:41.599Z] DDG ""powered by WooCommerce" "FedEx Ground"…": +0
+DDG "inurl:shop "woocommerce" fedex shipping…": +0
+[2026-05-31T10:29:43.280Z] DDG "inurl:shop "woocommerce" fedex shipping…": +0
+DDG ""wp-content/plugins/woocommerce" fedex…": +0
+[2026-05-31T10:29:44.957Z] DDG ""wp-content/plugins/woocommerce" fedex…": +0
+DDG "woocommerce store "ships via FedEx"…": +0
+[2026-05-31T10:29:46.638Z] DDG "woocommerce store "ships via FedEx"…": +0
+DDG ""add to cart" wordpress fedex shipping policy…": +0
+[2026-05-31T10:29:48.320Z] DDG ""add to cart" wordpress fedex shipping policy…": +0
+DDG "site:.com woocommerce fedex checkout…": +0
+[2026-05-31T10:29:50.000Z] DDG "site:.com woocommerce fedex checkout…": +0
+DDG "site:.net woocommerce fedex delivery…": +0
+[2026-05-31T10:29:51.710Z] DDG "site:.net woocommerce fedex delivery…": +0
+DDG "site:.us woocommerce fedex shipping…": +0
+[2026-05-31T10:29:53.401Z] DDG "site:.us woocommerce fedex shipping…": +0
+DDG "wordpress ecommerce fedex "contact us"…": +0
+[2026-05-31T10:29:55.085Z] DDG "wordpress ecommerce fedex "contact us"…": +0
+DDG ""woocommerce shipping" "FedEx Express"…": +0
+[2026-05-31T10:29:56.774Z] DDG ""woocommerce shipping" "FedEx Express"…": +0
+DDG "online store woocommerce fedex USA…": +0
+[2026-05-31T10:29:58.450Z] DDG "online store woocommerce fedex USA…": +0
+DDG "buy online woocommerce fedex contact email…": +0
+[2026-05-31T10:30:00.127Z] DDG "buy online woocommerce fedex contact email…": +0
+DDG "wordpress shop fedex woocommerce about…": +0
+[2026-05-31T10:30:01.809Z] DDG "wordpress shop fedex woocommerce about…": +0
+DDG "woocommerce boutique fedex shipping…": +0
+[2026-05-31T10:30:03.488Z] DDG "woocommerce boutique fedex shipping…": +0
+DDG "woocommerce supplements fedex shipping…": +0
+[2026-05-31T10:30:05.170Z] DDG "woocommerce supplements fedex shipping…": +0
+DDG "woocommerce pet store fedex…": +0
+[2026-05-31T10:30:06.846Z] DDG "woocommerce pet store fedex…": +0
+DDG "woocommerce electronics fedex shipping…": +0
+[2026-05-31T10:30:08.528Z] DDG "woocommerce electronics fedex shipping…": +0
+DDG "woocommerce fashion fedex delivery…": +0
+[2026-05-31T10:30:10.211Z] DDG "woocommerce fashion fedex delivery…": +0
+DDG "woocommerce parts fedex ground…": +0
+[2026-05-31T10:30:11.907Z] DDG "woocommerce parts fedex ground…": +0
+Common Crawl page 0: HTTP 500
+[2026-05-31T10:30:21.698Z] Common Crawl page 0: HTTP 500
+Showcase page 1: 27 external links
+[2026-05-31T10:30:24.285Z] Showcase page 1: 27 external links
+Showcase page 2: 27 external links
+[2026-05-31T10:30:25.956Z] Showcase page 2: 27 external links
+Showcase page 3: 27 external links
+[2026-05-31T10:30:27.482Z] Showcase page 3: 27 external links
+Showcase page 4: 27 external links
+[2026-05-31T10:30:29.075Z] Showcase page 4: 27 external links
+Showcase page 5: 27 external links
+[2026-05-31T10:30:30.699Z] Showcase page 5: 27 external links
+Showcase page 6: 27 external links
+[2026-05-31T10:30:32.387Z] Showcase page 6: 27 external links
+Showcase page 7: 27 external links
+[2026-05-31T10:30:34.002Z] Showcase page 7: 27 external links
+Showcase page 8: 27 external links
+[2026-05-31T10:30:35.583Z] Showcase page 8: 27 external links
+Showcase page 9: 27 external links
+[2026-05-31T10:30:37.048Z] Showcase page 9: 27 external links
+Showcase page 10: 27 external links
+[2026-05-31T10:30:38.482Z] Showcase page 10: 27 external links
+Showcase page 11: 27 external links
+[2026-05-31T10:30:39.943Z] Showcase page 11: 27 external links
+Showcase page 12: 27 external links
+[2026-05-31T10:30:41.410Z] Showcase page 12: 27 external links
+Showcase page 13: 27 external links
+[2026-05-31T10:30:42.965Z] Showcase page 13: 27 external links
+Showcase page 14: 27 external links
+[2026-05-31T10:30:44.596Z] Showcase page 14: 27 external links
+Showcase page 15: 27 external links
+[2026-05-31T10:30:46.241Z] Showcase page 15: 27 external links
+Showcase page 16: 27 external links
+[2026-05-31T10:30:47.830Z] Showcase page 16: 27 external links
+Showcase page 17: 27 external links
+[2026-05-31T10:30:49.439Z] Showcase page 17: 27 external links
+Showcase page 18: 27 external links
+[2026-05-31T10:30:51.094Z] Showcase page 18: 27 external links
+Showcase page 19: 27 external links
+[2026-05-31T10:30:53.153Z] Showcase page 19: 27 external links
+Showcase page 20: 27 external links
+[2026-05-31T10:30:54.679Z] Showcase page 20: 27 external links
+Showcase page 21: 27 external links
+[2026-05-31T10:30:56.356Z] Showcase page 21: 27 external links
+Showcase page 22: 27 external links
+[2026-05-31T10:30:57.822Z] Showcase page 22: 27 external links
+Showcase page 23: 27 external links
+[2026-05-31T10:30:59.283Z] Showcase page 23: 27 external links
+Showcase page 24: 27 external links
+[2026-05-31T10:31:00.695Z] Showcase page 24: 27 external links
+Showcase page 25: 27 external links
+[2026-05-31T10:31:02.107Z] Showcase page 25: 27 external links
+Showcase page 26: 27 external links
+[2026-05-31T10:31:03.875Z] Showcase page 26: 27 external links
+Showcase page 27: 27 external links
+[2026-05-31T10:31:05.484Z] Showcase page 27: 27 external links
+Showcase page 28: 27 external links
+[2026-05-31T10:31:07.041Z] Showcase page 28: 27 external links
+Showcase page 29: 27 external links
+[2026-05-31T10:31:08.618Z] Showcase page 29: 27 external links
+Showcase page 30: 27 external links
+[2026-05-31T10:31:10.177Z] Showcase page 30: 27 external links
+Europe retail websites loaded: 2931
+[2026-05-31T10:31:11.006Z] Europe retail websites loaded: 2931
+OSM seeds: New York, US
+[2026-05-31T10:31:11.007Z] OSM seeds: New York, US
+OSM seeds: Los Angeles, US
+[2026-05-31T10:31:24.831Z] OSM seeds: Los Angeles, US
+OSM seeds: Chicago, US
+[2026-05-31T10:34:36.361Z] OSM seeds: Chicago, US
+OSM seeds: Houston, US
+[2026-05-31T10:34:47.867Z] OSM seeds: Houston, US
+OSM seeds: Phoenix, US
+[2026-05-31T10:34:59.248Z] OSM seeds: Phoenix, US
+OSM seeds: Philadelphia, US
+[2026-05-31T10:35:10.388Z] OSM seeds: Philadelphia, US
+OSM seeds: San Antonio, US
+[2026-05-31T10:35:21.717Z] OSM seeds: San Antonio, US
+OSM seeds: San Diego, US
+[2026-05-31T10:35:33.068Z] OSM seeds: San Diego, US
+OSM seeds: Dallas, US
+[2026-05-31T10:36:46.960Z] OSM seeds: Dallas, US
+OSM seeds: San Jose, US
+[2026-05-31T10:36:58.232Z] OSM seeds: San Jose, US
+OSM seeds: Austin, US
+[2026-05-31T10:37:10.533Z] OSM seeds: Austin, US
+OSM seeds: Jacksonville, US
+[2026-05-31T10:37:21.931Z] OSM seeds: Jacksonville, US
+OSM seeds: Fort Worth, US
+[2026-05-31T10:37:33.388Z] OSM seeds: Fort Worth, US
+OSM seeds: Columbus, US
+[2026-05-31T10:37:44.567Z] OSM seeds: Columbus, US
+OSM seeds: Charlotte, US
+[2026-05-31T10:37:56.222Z] OSM seeds: Charlotte, US
+OSM seeds: Indianapolis, US
+[2026-05-31T10:38:07.489Z] OSM seeds: Indianapolis, US
+OSM seeds: Seattle, US
+[2026-05-31T10:38:18.889Z] OSM seeds: Seattle, US
+OSM seeds: Denver, US
+[2026-05-31T10:38:30.052Z] OSM seeds: Denver, US
+OSM seeds: Boston, US
+[2026-05-31T10:38:41.616Z] OSM seeds: Boston, US
+OSM seeds: Nashville, US
+[2026-05-31T10:38:53.025Z] OSM seeds: Nashville, US
+OSM seeds: Detroit, US
+[2026-05-31T10:39:17.339Z] OSM seeds: Detroit, US
+OSM seeds: Portland, US
+[2026-05-31T10:39:28.623Z] OSM seeds: Portland, US
+OSM seeds: Las Vegas, US
+[2026-05-31T10:39:40.252Z] OSM seeds: Las Vegas, US
+OSM seeds: Miami, US
+[2026-05-31T10:39:52.217Z] OSM seeds: Miami, US
+OSM seeds: Atlanta, US
+[2026-05-31T10:40:04.823Z] OSM seeds: Atlanta, US
+OSM seeds: Minneapolis, US
+[2026-05-31T10:40:17.050Z] OSM seeds: Minneapolis, US
+OSM seeds: Tampa, US
+[2026-05-31T10:40:28.974Z] OSM seeds: Tampa, US
+OSM seeds: Orlando, US
+[2026-05-31T10:40:40.373Z] OSM seeds: Orlando, US
+OSM seeds: Cleveland, US
+[2026-05-31T10:40:53.415Z] OSM seeds: Cleveland, US
+OSM seeds: Sacramento, US
+[2026-05-31T10:41:04.931Z] OSM seeds: Sacramento, US
+OSM seeds: San Francisco, US
+[2026-05-31T10:41:17.964Z] OSM seeds: San Francisco, US
+OSM seeds: Raleigh, US
+[2026-05-31T10:41:30.158Z] OSM seeds: Raleigh, US
+OSM seeds: Salt Lake City, US
+[2026-05-31T10:41:41.979Z] OSM seeds: Salt Lake City, US
+OSM seeds: Kansas City, US
+[2026-05-31T10:41:54.182Z] OSM seeds: Kansas City, US
+OSM seeds: St Louis, US
+[2026-05-31T10:42:06.126Z] OSM seeds: St Louis, US
+OSM seeds: Pittsburgh, US
+[2026-05-31T10:42:17.565Z] OSM seeds: Pittsburgh, US
+OSM seeds: Cincinnati, US
+[2026-05-31T10:42:28.865Z] OSM seeds: Cincinnati, US
+OSM seeds: Milwaukee, US
+[2026-05-31T10:42:54.616Z] OSM seeds: Milwaukee, US
+OSM seeds: Albuquerque, US
+[2026-05-31T10:43:06.281Z] OSM seeds: Albuquerque, US
+OSM seeds: Tucson, US
+[2026-05-31T10:43:17.782Z] OSM seeds: Tucson, US
+Unique candidate stores: 1806
+[2026-05-31T10:43:29.011Z] Unique candidate stores: 1806
+Progress 25/1806 · verified 0 · emails 0
+[2026-05-31T10:43:51.391Z] Progress 25/1806 · verified 0 · emails 0
+Progress 50/1806 · verified 0 · emails 0
+[2026-05-31T10:44:10.913Z] Progress 50/1806 · verified 0 · emails 0
+Progress 75/1806 · verified 0 · emails 0
+[2026-05-31T10:44:32.354Z] Progress 75/1806 · verified 0 · emails 0
+Progress 100/1806 · verified 0 · emails 0
+[2026-05-31T10:44:45.523Z] Progress 100/1806 · verified 0 · emails 0
+✓ jahan.ch — WC+WP+FedEx
+[2026-05-31T10:44:57.431Z] ✓ jahan.ch — WC+WP+FedEx
+Progress 125/1806 · verified 1 · emails 1
+[2026-05-31T10:45:00.983Z] Progress 125/1806 · verified 1 · emails 1
+Progress 150/1806 · verified 1 · emails 1
+[2026-05-31T10:45:19.701Z] Progress 150/1806 · verified 1 · emails 1
+Progress 175/1806 · verified 1 · emails 1
+[2026-05-31T10:45:30.654Z] Progress 175/1806 · verified 1 · emails 1
+✓ monocle.com — WC+WP+FedEx
+[2026-05-31T10:45:32.764Z] ✓ monocle.com — WC+WP+FedEx
+✓ coxandpower.com — WC+WP+FedEx
+[2026-05-31T10:45:33.549Z] ✓ coxandpower.com — WC+WP+FedEx
+Progress 200/1806 · verified 3 · emails 31
+[2026-05-31T10:45:39.304Z] Progress 200/1806 · verified 3 · emails 31
+Progress 225/1806 · verified 3 · emails 31
+[2026-05-31T10:45:49.461Z] Progress 225/1806 · verified 3 · emails 31
+Progress 250/1806 · verified 3 · emails 31
+[2026-05-31T10:46:03.475Z] Progress 250/1806 · verified 3 · emails 31
+Progress 275/1806 · verified 3 · emails 31
+[2026-05-31T10:46:19.375Z] Progress 275/1806 · verified 3 · emails 31
+Progress 300/1806 · verified 3 · emails 31
+[2026-05-31T10:46:32.343Z] Progress 300/1806 · verified 3 · emails 31
+Progress 325/1806 · verified 3 · emails 31
+[2026-05-31T10:46:47.685Z] Progress 325/1806 · verified 3 · emails 31
+Progress 350/1806 · verified 3 · emails 31
+[2026-05-31T10:47:00.298Z] Progress 350/1806 · verified 3 · emails 31
+Progress 375/1806 · verified 3 · emails 31
+[2026-05-31T10:47:12.913Z] Progress 375/1806 · verified 3 · emails 31
+
+> docbrain-marketing@1.0.0 scrape:fedex
+> FEDEX_SKIP_OSM=1 node scripts/scrape-fedex-woocommerce-leads.mjs --target 6000
+
+ReferenceError: LOG_FILE is not defined
+    at main (file:///Users/mdhemalakhand/my-saas/plugins/docbrain-marketing/scripts/scrape-fedex-woocommerce-leads.mjs:566:22)
+    at file:///Users/mdhemalakhand/my-saas/plugins/docbrain-marketing/scripts/scrape-fedex-woocommerce-leads.mjs:627:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:325:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:606:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+
+> docbrain-marketing@1.0.0 scrape:fedex
+> FEDEX_SKIP_OSM=1 node scripts/scrape-fedex-woocommerce-leads.mjs --target 6000
+
+Target: 6000 emails · current: 31
+[2026-05-31T10:49:02.437Z] Target: 6000 emails · current: 31
+DDG ""woocommerce" "fedex" shop contact…": +0
+[2026-05-31T10:49:02.863Z] DDG ""woocommerce" "fedex" shop contact…": +0
+DDG ""powered by WooCommerce" "FedEx Ground"…": +0
+[2026-05-31T10:49:04.594Z] DDG ""powered by WooCommerce" "FedEx Ground"…": +0
+DDG "inurl:shop "woocommerce" fedex shipping…": +0
+[2026-05-31T10:49:06.298Z] DDG "inurl:shop "woocommerce" fedex shipping…": +0
+DDG ""wp-content/plugins/woocommerce" fedex…": +0
+[2026-05-31T10:49:07.989Z] DDG ""wp-content/plugins/woocommerce" fedex…": +0
+DDG "woocommerce store "ships via FedEx"…": +0
+[2026-05-31T10:49:09.690Z] DDG "woocommerce store "ships via FedEx"…": +0
